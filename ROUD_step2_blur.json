@@ -1,0 +1,3502 @@
+[
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000937.jpg",
+    "metrics": {
+      "uciqe": 0.3455,
+      "uiqm": 0.0492,
+      "color_imbalance": 0.9802,
+      "brightness": 146.84,
+      "laplacian_var": 9.06
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "turbidity | color | brightness",
+      "vlm_confidence": 0.865,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B3",
+        "combined_tag": "L3-C3-B3"
+      },
+      "severity_scores": {
+        "turbidity_score": 10.0,
+        "color_score": 10.0,
+        "brightness_score": 10.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "turbidity | color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上明显存在严重的绿色偏色和浑浊现象。LaplacianVar 表明图像细节丰富，但整体亮度较低，可能受到浑浊度的影响。根据这些信息，推测浑浊度为 L3 级别，色偏为 C3 级别，亮度为 B3 级别。"
+    },
+    "processing_time": 1.065
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000932.jpg",
+    "metrics": {
+      "uciqe": 0.4145,
+      "uiqm": 0.0489,
+      "color_imbalance": 0.9626,
+      "brightness": 137.02,
+      "laplacian_var": 11.8
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8512,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上明显存在严重的绿色偏色和浑浊现象。LaplacianVar 表明图像细节丰富，但整体亮度较低，可能受到浑浊度的影响。根据这些信息，推测图像属于 C3 级别的色偏和 L3 级别的浑浊度。"
+    },
+    "processing_time": 1.065
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000936.jpg",
+    "metrics": {
+      "uciqe": 0.4035,
+      "uiqm": 0.0489,
+      "color_imbalance": 1.004,
+      "brightness": 145.82,
+      "laplacian_var": 15.59
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "turbidity | color | brightness",
+      "vlm_confidence": 0.864,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B3",
+        "combined_tag": "L3-C3-B3"
+      },
+      "severity_scores": {
+        "turbidity_score": 10.0,
+        "color_score": 10.0,
+        "brightness_score": 10.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "turbidity | color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上明显存在严重的绿色偏色和浑浊现象。LaplacianVar 表明图像细节丰富，但整体亮度较低，可能受到浑浊度的影响。根据这些信息，推测浑浊度为 L3 级别，色偏为 C3 级别，亮度为 B3 级别。"
+    },
+    "processing_time": 1.065
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000962.jpg",
+    "metrics": {
+      "uciqe": 0.5124,
+      "uiqm": 0.0546,
+      "color_imbalance": 0.9478,
+      "brightness": 126.77,
+      "laplacian_var": 97.04
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.854,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉上存在严重的绿色偏色，推测为C3级别。浑浊度明显，影响了细节的辨识，推测为L2级别。亮度适中，没有明显的过曝或欠曝现象，推测为B2级别。综合考虑，图像的主要退化因素是色偏和浑浊度。"
+    },
+    "processing_time": 1.065
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000947.jpg",
+    "metrics": {
+      "uciqe": 0.4718,
+      "uiqm": 0.0591,
+      "color_imbalance": 1.0178,
+      "brightness": 132.26,
+      "laplacian_var": 51.09
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "turbidity | color",
+      "vlm_confidence": 0.8342,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 10.0,
+        "color_score": 10.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "turbidity | color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上明显存在严重的绿色偏色和浑浊现象。LaplacianVar 表明图像细节丰富，但整体亮度较低，可能受到浑浊度的影响。ColorImbalance 显示明显的色偏，推测为 C3 级别。亮度偏低，推测为 B2 级别。综合考虑这些因素，推测浑浊度为 L3 级别。"
+    },
+    "processing_time": 1.065
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000934.jpg",
+    "metrics": {
+      "uciqe": 0.4078,
+      "uiqm": 0.0559,
+      "color_imbalance": 0.9584,
+      "brightness": 141.24,
+      "laplacian_var": 18.0
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8524,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE值为0.4078，表明图像质量尚可，但UIQM值为0.0559，表明图像存在明显的色偏问题。从视觉上观察，图像整体呈现浓重的绿色调，边缘模糊，细节丢失严重，推测为C3级别。亮度值为141.24，表明能量受限，画面偏暗，推测为B2级别。浑浊度方面，图像整体模糊，推测为L2级别。"
+    },
+    "processing_time": 1.065
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000989.jpg",
+    "metrics": {
+      "uciqe": 0.3453,
+      "uiqm": 0.0168,
+      "color_imbalance": 1.1449,
+      "brightness": 126.95,
+      "laplacian_var": 45.46
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8733,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 5.0,
+        "color_score": 9.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上存在明显的绿色偏色和亮度不足的问题。浑浊度看起来较为轻微，但整体图像偏暗，细节不明显。"
+    },
+    "processing_time": 1.065
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000970.jpg",
+    "metrics": {
+      "uciqe": 0.4378,
+      "uiqm": 0.0467,
+      "color_imbalance": 0.9434,
+      "brightness": 143.88,
+      "laplacian_var": 26.73
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.856,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 6.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和模糊现象。根据这些特征，推测图像可能处于 C3 级别（严重绿色/黄色/褐色偏，固有色基本丧失）和 L3 级别（浓重散射，幕帘效应严重，细节大量丢失）。亮度指标显示能量受限，画面偏暗，符合 B2 级别（能量受限，画面偏暗）。综合考虑这些因素，可以得出最终的诊断。"
+    },
+    "processing_time": 1.065
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000050.jpg",
+    "metrics": {
+      "uciqe": 0.4305,
+      "uiqm": 0.0047,
+      "color_imbalance": 0.8785,
+      "brightness": 99.92,
+      "laplacian_var": 63.48
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "turbidity | color_cast",
+      "vlm_confidence": 0.8551,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "turbidity | color_cast",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉上存在严重的绿色偏色，推测为C3级别。浑浊度明显，细节丢失严重，亮度正常，但整体偏暗。综合考虑，推测为L3级别。"
+    },
+    "processing_time": 0.98
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000012.jpg",
+    "metrics": {
+      "uciqe": 0.3429,
+      "uiqm": 0.0097,
+      "color_imbalance": 0.4865,
+      "brightness": 131.59,
+      "laplacian_var": 11.07
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8736,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 5.0,
+        "color_score": 8.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上存在明显的绿色偏色和亮度不足的问题。浑浊度看起来较为轻微，但整体图像偏暗，细节不明显。"
+    },
+    "processing_time": 0.98
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000043.jpg",
+    "metrics": {
+      "uciqe": 0.4012,
+      "uiqm": 0.0119,
+      "color_imbalance": 0.8396,
+      "brightness": 117.52,
+      "laplacian_var": 44.19
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8368,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏和模糊现象。根据这些特征，推测图像可能处于 C3 级别（严重绿色/黄色/褐色偏）和 L3 级别（浓重散射，幕帘效应严重）。亮度指标显示能量受限，但整体亮度尚可，因此亮度评估为 B2 级别（能量受限，画面偏暗）。综合考虑这些因素，最终给出 L3、C3 和 B2 的评分。"
+    },
+    "processing_time": 0.98
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000979.jpg",
+    "metrics": {
+      "uciqe": 0.3124,
+      "uiqm": 0.0212,
+      "color_imbalance": 1.3522,
+      "brightness": 128.01,
+      "laplacian_var": 34.44
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8545,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3_C3_B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 6.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上明显存在严重的绿色偏色，推测为 C3 级别。此外，整体图像呈现出一种浓重的散射效果，细节丢失严重，推测为 L3 级别。亮度方面，虽然 UCIQE 不算太低，但整体画面偏暗，推测为 B2 级别。"
+    },
+    "processing_time": 0.98
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001039.jpg",
+    "metrics": {
+      "uciqe": 0.3487,
+      "uiqm": 0.0219,
+      "color_imbalance": 1.2766,
+      "brightness": 130.12,
+      "laplacian_var": 84.38
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8728,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 5.0,
+        "color_score": 9.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上存在明显的绿色偏色和亮度不足的问题。浑浊度看起来较为轻微，但整体图像偏暗，细节不明显。"
+    },
+    "processing_time": 0.98
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001038.jpg",
+    "metrics": {
+      "uciqe": 0.3587,
+      "uiqm": 0.0199,
+      "color_imbalance": 1.2733,
+      "brightness": 126.44,
+      "laplacian_var": 184.63
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color",
+      "vlm_confidence": 0.8659,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 5.0,
+        "color_score": 9.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉上存在严重的绿色偏色，推测为C3级别。浑浊度看起来较为均匀，但整体偏绿，亮度适中，没有明显的过曝或欠曝现象。"
+    },
+    "processing_time": 0.98
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000076.jpg",
+    "metrics": {
+      "uciqe": 0.4054,
+      "uiqm": 0.0116,
+      "color_imbalance": 0.4147,
+      "brightness": 130.29,
+      "laplacian_var": 43.45
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8567,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和模糊现象。根据这些特征，推测图像可能处于 C3 级别（严重绿色/黄色/褐色偏，固有色基本丧失）和 L3 级别（浓重散射，幕帘效应严重，细节大量丢失）。亮度指标显示能量受限，画面偏暗，符合 B2 级别（能量受限，画面偏暗）。综合考虑这些因素，可以得出最终的诊断。"
+    },
+    "processing_time": 0.98
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000048.jpg",
+    "metrics": {
+      "uciqe": 0.422,
+      "uiqm": 0.0156,
+      "color_imbalance": 0.9489,
+      "brightness": 112.89,
+      "laplacian_var": 50.1
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color",
+      "vlm_confidence": 0.8136,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B1",
+        "combined_tag": "L2-C3-B1"
+      },
+      "severity_scores": {
+        "turbidity_score": 5.0,
+        "color_score": 9.0,
+        "brightness_score": 1.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE值为0.422，表明图像质量尚可，但UIQM值为0.0156，表明图像存在严重的色偏问题。从视觉上观察，图像呈现出明显的绿色偏移，且整体色调偏绿，符合C3级别的色偏特征。此外，图像整体呈绿色调，亮度适中，但没有明显的亮度不足的问题。因此，可以推测图像的主要退化因素是色偏和绿色偏移。"
+    },
+    "processing_time": 0.98
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001100.jpg",
+    "metrics": {
+      "uciqe": 0.3507,
+      "uiqm": 0.0191,
+      "color_imbalance": 1.2215,
+      "brightness": 125.3,
+      "laplacian_var": 119.76
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "turbidity | color_cast | brightness",
+      "vlm_confidence": 0.9008,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B3",
+        "combined_tag": "L3-C3-B3"
+      },
+      "severity_scores": {
+        "turbidity_score": 10.0,
+        "color_score": 10.0,
+        "brightness_score": 10.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "turbidity | color_cast | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏和模糊现象。根据这些特征，推测浑浊度为 L3 级别，色偏为 C3 级别，亮度为 B3 级别。"
+    },
+    "processing_time": 0.995
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001195.jpg",
+    "metrics": {
+      "uciqe": 0.3544,
+      "uiqm": 0.041,
+      "color_imbalance": 1.7529,
+      "brightness": 115.71,
+      "laplacian_var": 4.06
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "turbidity | color_cast | brightness",
+      "vlm_confidence": 0.8323,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "turbidity | color_cast | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉上存在严重的绿色偏色，推测为C3级别。同时，图像整体呈绿色调，表明浑浊度较高，可能达到L3级别。亮度方面，虽然数值较高，但整体偏暗，推测为B2级别。综合考虑这些因素，可以得出浑浊度、色偏和亮度的初步评估。"
+    },
+    "processing_time": 0.995
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001132.jpg",
+    "metrics": {
+      "uciqe": 0.3437,
+      "uiqm": 0.0254,
+      "color_imbalance": 1.2242,
+      "brightness": 133.03,
+      "laplacian_var": 31.62
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8252,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 10.0,
+        "color_score": 10.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上明显存在严重的绿色偏色和浑浊现象。LaplacianVar 表明图像细节丰富，但整体亮度较低，可能由于浑浊导致。ColorImbalance 显示明显的绿色偏色，推测为 C3 级别。浑浊度方面，图像整体模糊，细节丢失严重，推测为 L3 级别。亮度方面，虽然有细节，但整体偏暗，推测为 B2 级别。"
+    },
+    "processing_time": 0.995
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001102.jpg",
+    "metrics": {
+      "uciqe": 0.3416,
+      "uiqm": 0.0186,
+      "color_imbalance": 1.2283,
+      "brightness": 125.03,
+      "laplacian_var": 67.48
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8471,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 5.0,
+        "color_score": 9.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上明显存在严重的绿色偏色和亮度不足的问题。LaplacianVar 表明图像细节丰富，但整体色调异常。鉴于这些因素，推测图像可能处于 C3 级别的色偏和 B3 级别的亮度不足状态。"
+    },
+    "processing_time": 0.995
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001189.jpg",
+    "metrics": {
+      "uciqe": 0.3145,
+      "uiqm": 0.0232,
+      "color_imbalance": 1.2525,
+      "brightness": 133.6,
+      "laplacian_var": 26.09
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "turbidity | color_cast | brightness",
+      "vlm_confidence": 0.8465,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "turbidity | color_cast | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上存在严重的绿色偏色和浑浊现象。LaplacianVar 表明图像细节丰富，但整体亮度较低，可能受到浑浊度的影响。根据这些信息，推测浑浊度较高，色偏严重，亮度受限。"
+    },
+    "processing_time": 0.995
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001161.jpg",
+    "metrics": {
+      "uciqe": 0.3376,
+      "uiqm": 0.0229,
+      "color_imbalance": 1.2542,
+      "brightness": 129.19,
+      "laplacian_var": 14.76
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8443,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上明显存在严重的绿色偏色和浑浊现象。LaplacianVar 表明图像细节丰富，但整体亮度较低，可能由于浑浊导致。ColorImbalance 显示明显的色偏，推测为 C3 级别。亮度偏低，推测为 B2 级别。浑浊度较高，推测为 L2 级别。"
+    },
+    "processing_time": 0.995
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001135.jpg",
+    "metrics": {
+      "uciqe": 0.4047,
+      "uiqm": 0.0245,
+      "color_imbalance": 1.2792,
+      "brightness": 133.38,
+      "laplacian_var": 24.91
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.7992,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上明显存在严重的绿色偏色和浑浊现象。LaplacianVar 表明图像细节丰富，但整体亮度较低，可能由于浑浊导致。ColorImbalance 显示明显的色偏，推测为 C3 级别。UCIQE 值较低，表明图像质量不佳，但没有达到极端浑浊的程度。亮度值偏低，但不是主要问题。综合考虑，图像的主要问题是色偏和浑浊。"
+    },
+    "processing_time": 0.995
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001166.jpg",
+    "metrics": {
+      "uciqe": 0.3556,
+      "uiqm": 0.0191,
+      "color_imbalance": 1.2627,
+      "brightness": 127.3,
+      "laplacian_var": 17.16
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8573,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B3",
+        "combined_tag": "L3-C3-B3"
+      },
+      "severity_scores": {
+        "turbidity_score": 10.0,
+        "color_score": 10.0,
+        "brightness_score": 10.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉上存在严重的绿色偏色，推测为C3级别。同时，图像整体呈绿色调，表明浑浊度较高，推测为L3级别。亮度方面，虽然数值为127.3，但考虑到绿色偏色的影响，实际亮度可能较低，推测为B3级别。"
+    },
+    "processing_time": 0.995
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001088.jpg",
+    "metrics": {
+      "uciqe": 0.3769,
+      "uiqm": 0.0222,
+      "color_imbalance": 1.3323,
+      "brightness": 128.01,
+      "laplacian_var": 42.53
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8726,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 5.0,
+        "color_score": 9.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上明显存在严重的绿色偏色和亮度不足的问题。浑浊度看起来较为轻微，但整体图像偏暗，细节不清晰。"
+    },
+    "processing_time": 0.98375
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001196.jpg",
+    "metrics": {
+      "uciqe": 0.3496,
+      "uiqm": 0.0405,
+      "color_imbalance": 1.7536,
+      "brightness": 117.58,
+      "laplacian_var": 3.7
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "turbidity | color",
+      "vlm_confidence": 0.8365,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 10.0,
+        "color_score": 10.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "turbidity | color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上明显存在严重的绿色偏色和浑浊现象。LaplacianVar 表明图像细节丰富，但整体亮度较低，可能受到浑浊度的影响。ColorImbalance 显示明显的色偏，推测为 C3 级别。亮度偏低，推测为 B2 级别。综合考虑这些因素，推测浑浊度为 L3 级别。"
+    },
+    "processing_time": 0.98375
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001191.jpg",
+    "metrics": {
+      "uciqe": 0.3452,
+      "uiqm": 0.0212,
+      "color_imbalance": 1.2671,
+      "brightness": 125.7,
+      "laplacian_var": 43.81
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8203,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 5.0,
+        "color_score": 9.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉上存在严重的绿色偏色，推测为C3级别。同时，图像整体呈绿色调，表明存在明显的色偏。此外，图像的亮度较低，可能由于水下环境导致能量受限，推测为B2级别。浑浊度方面，图像中的物体边缘模糊，表明存在一定的浑浊度，但不严重，推测为L2级别。"
+    },
+    "processing_time": 0.98375
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001218.jpg",
+    "metrics": {
+      "uciqe": 0.405,
+      "uiqm": 0.0662,
+      "color_imbalance": 1.6525,
+      "brightness": 144.17,
+      "laplacian_var": 11.68
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "turbidity | color_cast",
+      "vlm_confidence": 0.8328,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "turbidity | color_cast",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像的清晰度尚可，但视觉上明显存在严重的绿色偏色，推测为C3级别。同时，图像整体呈现出浓重的散射效果，细节大量丢失，推测为L3级别。亮度方面，虽然数值较高，但考虑到绿色偏色的影响，实际亮度可能受到影响，因此亮度评估为B2级别。"
+    },
+    "processing_time": 0.98375
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001197.jpg",
+    "metrics": {
+      "uciqe": 0.3337,
+      "uiqm": 0.0508,
+      "color_imbalance": 1.7284,
+      "brightness": 125.59,
+      "laplacian_var": 4.45
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.827,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上明显存在严重的绿色偏色和浑浊现象。LaplacianVar 表明图像细节丰富，但整体亮度较低，可能受到浑浊度的影响。ColorImbalance 高于正常范围，表明色偏严重。Brightness 值较低，说明图像偏暗。综合这些因素，推测图像属于 C3 级别的色偏和 L3 级别的浑浊度。"
+    },
+    "processing_time": 0.98375
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001235.jpg",
+    "metrics": {
+      "uciqe": 0.3152,
+      "uiqm": 0.0443,
+      "color_imbalance": 1.3193,
+      "brightness": 128.2,
+      "laplacian_var": 8.05
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8754,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 6.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上明显存在严重的绿色偏色和亮度不足的问题。浑浊度看起来较为轻微，但整体图像偏暗，细节难以辨认。"
+    },
+    "processing_time": 0.98375
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001233.jpg",
+    "metrics": {
+      "uciqe": 0.3807,
+      "uiqm": 0.0381,
+      "color_imbalance": 1.3312,
+      "brightness": 117.57,
+      "laplacian_var": 13.13
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8589,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3_C3_B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 6.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和模糊现象。根据这些特征，推测图像可能处于 C3 级别（严重绿色/黄色/褐色偏，固有色基本丧失）和 L3 级别（浓重散射，幕帘效应严重，细节大量丢失）。亮度指标显示能量受限，画面偏暗，符合 B2 级别（能量受限，画面偏暗）。综合考虑这些因素，可以得出最终的诊断。"
+    },
+    "processing_time": 0.98375
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001263.jpg",
+    "metrics": {
+      "uciqe": 0.3597,
+      "uiqm": 0.0634,
+      "color_imbalance": 1.8937,
+      "brightness": 133.89,
+      "laplacian_var": 4.09
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.811,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上明显存在严重的绿色偏色和浑浊现象。LaplacianVar 表明图像细节丰富，但整体亮度较低，可能受到浑浊度的影响。ColorImbalance 高于正常范围，表明色偏严重。Brightness 值较低，但没有明显的噪点，说明亮度受限而非噪声主导。综合这些因素，推测图像属于 C3 级别的色偏和 L3 级别的浑浊度。"
+    },
+    "processing_time": 0.98375
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001258.jpg",
+    "metrics": {
+      "uciqe": 0.3344,
+      "uiqm": 0.0495,
+      "color_imbalance": 1.8406,
+      "brightness": 120.08,
+      "laplacian_var": 8.85
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8215,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上明显存在严重的绿色偏色和浑浊现象。LaplacianVar 表明图像细节丰富，但整体亮度较低，可能受到浑浊度的影响。ColorImbalance 高于正常范围，表明色偏严重。Brightness 值较低，但没有明显的噪点干扰。综合考虑这些因素，推测图像属于 C3 级别的色偏和 L3 级别的浑浊度。"
+    },
+    "processing_time": 0.96
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/001273.jpg",
+    "metrics": {
+      "uciqe": 0.3648,
+      "uiqm": 0.0486,
+      "color_imbalance": 1.8675,
+      "brightness": 116.83,
+      "laplacian_var": 6.83
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8252,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上明显存在严重的绿色偏色和浑浊现象。LaplacianVar 表明图像细节丰富，但整体亮度较低，可能受到浑浊度的影响。ColorImbalance 高于正常范围，表明色偏严重。Brightness 值较低，但没有达到极低照度的程度。综合考虑这些因素，推测图像属于 C3 级别的色偏和 L3 级别的浑浊度。"
+    },
+    "processing_time": 0.96
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/004432.jpg",
+    "metrics": {
+      "uciqe": 0.6263,
+      "uiqm": 0.0445,
+      "color_imbalance": 0.0878,
+      "brightness": 135.69,
+      "laplacian_var": 69.84
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color",
+      "vlm_confidence": 0.8304,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B1",
+        "combined_tag": "L2-C3-B1"
+      },
+      "severity_scores": {
+        "turbidity_score": 7.0,
+        "color_score": 9.0,
+        "brightness_score": 1.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像整体质量尚可，但视觉观察到严重的绿色偏色，推测为C3级别。浑浊度方面，图像中存在明显的散射现象，但结构尚可辨认，推测为L2级别。亮度方面，图像能量充足，画面明亮，推测为B1级别。综合考虑，图像的主要退化因素是色偏，因此最终诊断为C3级别。"
+    },
+    "processing_time": 0.96
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/004530.jpg",
+    "metrics": {
+      "uciqe": 0.5705,
+      "uiqm": 0.0179,
+      "color_imbalance": 0.6407,
+      "brightness": 116.42,
+      "laplacian_var": 96.78
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color",
+      "vlm_confidence": 0.8592,
+      "tags": {
+        "turbidity": "L1",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L1-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 2.0,
+        "color_score": 10.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和较暗的亮度。浑浊度看起来较低，但整体图像偏暗，细节不明显。根据这些特征，推测浑浊度为 L1，色偏为 C3，亮度为 B2。"
+    },
+    "processing_time": 0.96
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/004590.jpg",
+    "metrics": {
+      "uciqe": 0.5357,
+      "uiqm": 0.0199,
+      "color_imbalance": 1.3417,
+      "brightness": 86.57,
+      "laplacian_var": 136.32
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8732,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 3.0,
+        "color_score": 8.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到明显的绿色偏色和亮度不足。浑浊度看起来较为轻微，但整体图像偏暗，细节不明显。"
+    },
+    "processing_time": 0.96
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/004711.jpg",
+    "metrics": {
+      "uciqe": 0.623,
+      "uiqm": 0.0533,
+      "color_imbalance": 0.0748,
+      "brightness": 127.56,
+      "laplacian_var": 100.29
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8557,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 6.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉观察到严重的绿色偏色，推测为C3级别。浑浊度方面，图像整体较为模糊，但没有明显的幕帘效应，推测为L2级别。亮度方面，图像能量受限，画面偏暗，推测为B2级别。综合考虑，图像的主要退化因素是色偏和亮度不足。"
+    },
+    "processing_time": 0.96
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/004632.jpg",
+    "metrics": {
+      "uciqe": 0.4278,
+      "uiqm": 0.0122,
+      "color_imbalance": 1.1814,
+      "brightness": 101.36,
+      "laplacian_var": 38.77
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8807,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B3",
+        "combined_tag": "L2-C3-B3"
+      },
+      "severity_scores": {
+        "turbidity_score": 7.0,
+        "color_score": 9.0,
+        "brightness_score": 9.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和较暗的亮度，推测为 C3 和 B3 级别。浑浊度方面，虽然没有明显的散射现象，但整体图像较为模糊，推测为 L2 级别。"
+    },
+    "processing_time": 0.96
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/004758.jpg",
+    "metrics": {
+      "uciqe": 0.6744,
+      "uiqm": 0.3153,
+      "color_imbalance": 0.7561,
+      "brightness": 82.53,
+      "laplacian_var": 1779.77
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color",
+      "vlm_confidence": 0.8487,
+      "tags": {
+        "turbidity": "L1",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L1-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 2.0,
+        "color_score": 10.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和亮度不足。尽管浑浊度看起来较低，但整体图像显得较为暗淡，缺乏足够的光照。因此，推测浑浊度为 L1，色偏为 C3，亮度为 B2。"
+    },
+    "processing_time": 0.96
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005144.jpg",
+    "metrics": {
+      "uciqe": 0.4107,
+      "uiqm": 0.0457,
+      "color_imbalance": 1.0409,
+      "brightness": 125.32,
+      "laplacian_var": 8.85
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.867,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和模糊现象。浑浊度明显，影响了细节的清晰度。亮度适中，但整体偏暗。综合考虑这些因素，推测浑浊度为 L2 级别，色偏为 C3 级别，亮度为 B2 级别。"
+    },
+    "processing_time": 0.915
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005321.jpg",
+    "metrics": {
+      "uciqe": 0.5771,
+      "uiqm": 0.0339,
+      "color_imbalance": 0.9024,
+      "brightness": 99.14,
+      "laplacian_var": 11.91
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8628,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 6.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉观察到严重的绿色偏色，推测为C3级别。同时，图像整体偏暗，亮度较低，推测为B2级别。浑浊度方面，由于水下环境，存在一定的浑浊现象，但不严重，推测为L2级别。"
+    },
+    "processing_time": 0.915
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005371.jpg",
+    "metrics": {
+      "uciqe": 0.4052,
+      "uiqm": 0.0275,
+      "color_imbalance": 1.0473,
+      "brightness": 128.32,
+      "laplacian_var": 126.82
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8411,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 5.0,
+        "color_score": 8.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉观察到严重的绿色偏色，推测为C3级别。浑浊度由于水下环境影响，存在轻微雾化现象，属于L2级别。亮度方面，由于水下光线条件限制，整体偏暗，属于B2级别。综合考虑，图像主要问题在于色偏和亮度不足。"
+    },
+    "processing_time": 0.915
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005489.jpg",
+    "metrics": {
+      "uciqe": 0.3995,
+      "uiqm": 0.0262,
+      "color_imbalance": 0.6569,
+      "brightness": 134.81,
+      "laplacian_var": 13.73
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8385,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和浑浊现象。浑浊度明显影响了图像的清晰度，导致边缘模糊。色偏方面，图像呈现出明显的绿色偏色，表明固有色基本丧失。亮度方面，虽然数值较高，但整体感觉偏暗，可能是由于浑浊度和色偏共同作用的结果。"
+    },
+    "processing_time": 0.915
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005495.jpg",
+    "metrics": {
+      "uciqe": 0.4105,
+      "uiqm": 0.0163,
+      "color_imbalance": 0.5544,
+      "brightness": 137.48,
+      "laplacian_var": 42.9
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8446,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B1",
+        "combined_tag": "L3-C3-B1"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 0.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和模糊现象。根据这些特征，推测图像可能属于 C3 级别的色偏和 L3 级别的浑浊度。亮度指标显示能量充足，因此亮度部分应为 B1。综合考虑这些因素，最终给出浑浊度、色偏和亮度的评分。"
+    },
+    "processing_time": 0.915
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005466.jpg",
+    "metrics": {
+      "uciqe": 0.4542,
+      "uiqm": 0.0241,
+      "color_imbalance": 1.3781,
+      "brightness": 89.9,
+      "laplacian_var": 50.22
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8187,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和模糊现象。LaplacianVar 表明图像存在明显的细节损失，而 ColorImbalance 显示色偏严重。因此，推测图像可能处于 C3 级别，即严重绿色/黄色/褐色偏，固有色基本丧失。亮度指标显示能量充足，但整体图像由于色偏和模糊显得偏暗。"
+    },
+    "processing_time": 0.915
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005509.jpg",
+    "metrics": {
+      "uciqe": 0.3942,
+      "uiqm": 0.0483,
+      "color_imbalance": 0.3699,
+      "brightness": 142.5,
+      "laplacian_var": 3.19
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8519,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 7.0,
+        "color_score": 9.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉上存在明显的绿色偏色，推测为C3级别。浑浊度明显，影响了图像的清晰度，推测为L2级别。亮度适中，没有极端偏暗或过亮的情况，推测为B2级别。综合考虑，图像的主要退化因素是色偏和浑浊度。"
+    },
+    "processing_time": 0.915
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005513.jpg",
+    "metrics": {
+      "uciqe": 0.3892,
+      "uiqm": 0.0285,
+      "color_imbalance": 0.5869,
+      "brightness": 137.31,
+      "laplacian_var": 10.34
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color",
+      "vlm_confidence": 0.8328,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉上存在明显的绿色偏色，推测为C3级别。浑浊度由于水下环境影响，可能处于L2级别。亮度方面，虽然能量受限，但整体亮度尚可，属于B2级别。综合考虑，图像的主要退化因素是色偏。"
+    },
+    "processing_time": 0.915
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005496.jpg",
+    "metrics": {
+      "uciqe": 0.4005,
+      "uiqm": 0.0343,
+      "color_imbalance": 0.3675,
+      "brightness": 138.26,
+      "laplacian_var": 79.85
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8306,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 7.0,
+        "color_score": 9.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉上存在明显的绿色偏色，推测为C3级别。同时，图像整体显得较为模糊，可能由于浑浊度较高，推测为L2级别。亮度方面，虽然数值较低，但并未达到极低照度的程度，因此亮度评分为B2。综合考虑，图像的主要退化因素是色偏和浑浊度。"
+    },
+    "processing_time": 0.98875
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005519.jpg",
+    "metrics": {
+      "uciqe": 0.4325,
+      "uiqm": 0.007,
+      "color_imbalance": 0.7492,
+      "brightness": 122.77,
+      "laplacian_var": 15.54
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color",
+      "vlm_confidence": 0.8651,
+      "tags": {
+        "turbidity": "L1",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L1-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 0.0,
+        "color_score": 0.0,
+        "brightness_score": 0.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉观察到严重的绿色偏色，推测为C3级别。浑浊度看起来较为清晰，但整体亮度较低，推测为B2级别。综合考虑，图像存在明显的色偏问题。"
+    },
+    "processing_time": 0.98875
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005520.jpg",
+    "metrics": {
+      "uciqe": 0.452,
+      "uiqm": 0.0196,
+      "color_imbalance": 0.4782,
+      "brightness": 121.42,
+      "laplacian_var": 96.63
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8443,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉上存在明显的绿色偏色，推测为C3级别。浑浊度看起来较为严重，影响了细节的辨识，推测为L3级别。亮度方面，虽然数值较高，但整体偏暗，推测为B2级别。综合来看，图像的主要退化因素是色偏和浑浊度。"
+    },
+    "processing_time": 0.98875
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005887.jpg",
+    "metrics": {
+      "uciqe": 0.6109,
+      "uiqm": 0.0549,
+      "color_imbalance": 0.0699,
+      "brightness": 145.78,
+      "laplacian_var": 85.73
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "turbidity | color_cast",
+      "vlm_confidence": 0.8494,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3_C3_B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "turbidity | color_cast",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉上存在明显的绿色偏色，推测为C3级别。浑浊度明显，细节模糊，亮度适中，但整体偏暗。综合考虑，推测为L3级别浑浊度，C3级别色偏，B2级别亮度。"
+    },
+    "processing_time": 0.98875
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000035.jpg",
+    "metrics": {
+      "uciqe": 0.4259,
+      "uiqm": 0.0025,
+      "color_imbalance": 0.2289,
+      "brightness": 94.82,
+      "laplacian_var": 49.56
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8327,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉上存在明显的绿色偏色，推测为C3级别。同时，图像整体显得较为模糊，可能由于浑浊度较高，推测为L2级别。亮度方面，虽然数值较高，但考虑到浑浊度的影响，实际亮度可能受到影响，因此亮度评估为B2级别。"
+    },
+    "processing_time": 0.98875
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/012390.jpg",
+    "metrics": {
+      "uciqe": 0.5145,
+      "uiqm": 0.0073,
+      "color_imbalance": 0.6389,
+      "brightness": 95.04,
+      "laplacian_var": 24.23
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color",
+      "vlm_confidence": 0.8241,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B1",
+        "combined_tag": "L2-C3-B1"
+      },
+      "severity_scores": {
+        "turbidity_score": 3.0,
+        "color_score": 9.0,
+        "brightness_score": 0.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE值为0.5145，表明图像质量尚可，但UIQM值为0.0073，表明图像存在明显的色偏问题。从视觉上观察，图像整体呈现绿色调，可能是因为水下环境中的散射光导致的色偏。此外，图像的亮度较高，达到了95.04%，这表明辐照度充足，但色偏问题显著影响了图像的整体质量。"
+    },
+    "processing_time": 0.98875
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000092.jpg",
+    "metrics": {
+      "uciqe": 0.5012,
+      "uiqm": 0.0202,
+      "color_imbalance": 0.9847,
+      "brightness": 136.72,
+      "laplacian_var": 95.18
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8274,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 10.0,
+        "color_score": 10.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉上存在严重的绿色偏色和模糊现象。UCIQE为0.5012，表明图像质量一般，但UIQM为0.0202，表明图像噪点较多。此外，观察到明显的绿色偏色，推测为C3级别。亮度方面，虽然亮度值为136.72，但整体画面偏暗，推测为B2级别。因此，综合考虑，图像的浑浊度、色偏和亮度都较为严重。"
+    },
+    "processing_time": 0.98875
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000005.jpg",
+    "metrics": {
+      "uciqe": 0.3958,
+      "uiqm": 0.0125,
+      "color_imbalance": 0.2617,
+      "brightness": 122.85,
+      "laplacian_var": 116.21
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8614,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 9.0,
+        "color_score": 9.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉上存在明显的绿色偏色，推测为C3级别。同时，图像整体较为模糊，浑浊度较高，推测为L3级别。亮度方面，虽然数值较低，但并未达到极低照度的程度，推测为B2级别。"
+    },
+    "processing_time": 0.98875
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/012769.jpg",
+    "metrics": {
+      "uciqe": 0.4088,
+      "uiqm": 0.0161,
+      "color_imbalance": 0.8574,
+      "brightness": 117.8,
+      "laplacian_var": 4.69
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8354,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和模糊现象。根据这些特征，推测图像可能属于 C3 级别的色偏和 L3 级别的浑浊度。亮度方面，虽然数值较高，但整体画面偏暗，因此亮度评估为 B2。综合考虑这些因素，最终给出浑浊度、色偏和亮度的评分。"
+    },
+    "processing_time": 0.91
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/004943.jpg",
+    "metrics": {
+      "uciqe": 0.41,
+      "uiqm": 0.0184,
+      "color_imbalance": 2.0209,
+      "brightness": 83.58,
+      "laplacian_var": 119.38
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color",
+      "vlm_confidence": 0.8764,
+      "tags": {
+        "turbidity": "L1",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L1-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 0.0,
+        "color_score": 0.0,
+        "brightness_score": 0.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量一般，但视觉上存在明显的绿色偏色，推测为C3级别。亮度适中，但整体偏暗，推测为B2级别。浑浊度较低，推测为L1级别。"
+    },
+    "processing_time": 0.91
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005369.jpg",
+    "metrics": {
+      "uciqe": 0.4957,
+      "uiqm": 0.0193,
+      "color_imbalance": 0.7023,
+      "brightness": 129.92,
+      "laplacian_var": 112.47
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8596,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 6.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像整体质量尚可，但视觉观察到严重的绿色偏色，推测为C3级别。此外，图像整体偏暗，亮度较低，推测为B2级别。浑浊度方面，由于水下环境，存在一定的浑浊现象，但不严重，推测为L2级别。"
+    },
+    "processing_time": 0.91
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005409.jpg",
+    "metrics": {
+      "uciqe": 0.5901,
+      "uiqm": 0.0519,
+      "color_imbalance": 0.1019,
+      "brightness": 144.49,
+      "laplacian_var": 158.8
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8634,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 6.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉上存在明显的绿色偏色，推测为C3级别。浑浊度看起来较为轻微，但亮度较低，推测为B2级别。综合考虑，图像整体退化较为严重。"
+    },
+    "processing_time": 0.91
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000004.jpg",
+    "metrics": {
+      "uciqe": 0.4322,
+      "uiqm": 0.0099,
+      "color_imbalance": 0.1789,
+      "brightness": 140.93,
+      "laplacian_var": 143.2
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8551,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉上存在明显的绿色偏色，推测为C3级别。此外，图像整体显得较为模糊，可能由于浑浊度较高，推测为L2级别。亮度方面，虽然数值较高，但整体画面偏暗，推测为B2级别。"
+    },
+    "processing_time": 0.91
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005207.jpg",
+    "metrics": {
+      "uciqe": 0.4702,
+      "uiqm": 0.0259,
+      "color_imbalance": 0.9112,
+      "brightness": 111.27,
+      "laplacian_var": 142.77
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "turbidity | color",
+      "vlm_confidence": 0.8389,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "turbidity | color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和模糊现象。浑浊度明显，影响了细节的清晰度。亮度适中，但色偏问题显著，推测为C3级别。因此，综合考虑，浑浊度和色偏是主要退化因素。"
+    },
+    "processing_time": 0.91
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005724.jpg",
+    "metrics": {
+      "uciqe": 0.5099,
+      "uiqm": 0.0128,
+      "color_imbalance": 1.7294,
+      "brightness": 93.5,
+      "laplacian_var": 102.2
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8791,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B3",
+        "combined_tag": "L2-C3-B3"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 9.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和较暗的亮度，推测为 C3 和 B3 级别。浑浊度方面，虽然没有明显的散射现象，但整体图像较为模糊，推测为 L2 级别。"
+    },
+    "processing_time": 0.91
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000971.jpg",
+    "metrics": {
+      "uciqe": 0.3585,
+      "uiqm": 0.0233,
+      "color_imbalance": 1.2536,
+      "brightness": 129.98,
+      "laplacian_var": 80.14
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8732,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 5.0,
+        "color_score": 9.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上存在明显的绿色偏色和亮度不足的问题。浑浊度看起来较为轻微，但整体图像偏暗，细节不明显。"
+    },
+    "processing_time": 0.91
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000288.jpg",
+    "metrics": {
+      "uciqe": 0.4173,
+      "uiqm": 0.0054,
+      "color_imbalance": 1.0825,
+      "brightness": 100.1,
+      "laplacian_var": 42.36
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "turbidity | color_cast",
+      "vlm_confidence": 0.8658,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "turbidity | color_cast",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE值为0.4173，表明图像质量尚可，但UIQM值为0.0054，表明图像存在严重的色偏问题，推测为C3级别。此外，图像整体呈现绿色调，亮度适中，但浑浊度明显，影响了细节的辨识。"
+    },
+    "processing_time": 0.94125
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000358.jpg",
+    "metrics": {
+      "uciqe": 0.4637,
+      "uiqm": 0.0085,
+      "color_imbalance": 1.237,
+      "brightness": 105.67,
+      "laplacian_var": 48.35
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "turbidity | color_cast",
+      "vlm_confidence": 0.8431,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 10.0,
+        "color_score": 10.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "turbidity | color_cast",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量一般，但视觉上明显存在严重的绿色偏色和浑浊现象。LaplacianVar 表明图像细节丰富，但整体亮度较低，可能受到浑浊度的影响。ColorImbalance 显示明显的绿色偏色，推测为 C3 级别。亮度偏低，推测为 B2 级别。浑浊度明显，推测为 L3 级别。"
+    },
+    "processing_time": 0.94125
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/012364.jpg",
+    "metrics": {
+      "uciqe": 0.5642,
+      "uiqm": 0.0744,
+      "color_imbalance": 0.7369,
+      "brightness": 114.08,
+      "laplacian_var": 124.1
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8623,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 7.0,
+        "color_score": 9.0,
+        "brightness_score": 6.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉观察到严重的绿色偏色，推测为C3级别。此外，浑浊度明显，影响了细节的清晰度，推测为L2级别。亮度方面，虽然数值较高，但整体画面偏暗，推测为B2级别。"
+    },
+    "processing_time": 0.94125
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/004303.jpg",
+    "metrics": {
+      "uciqe": 0.6861,
+      "uiqm": 0.0908,
+      "color_imbalance": 0.7603,
+      "brightness": 104.99,
+      "laplacian_var": 618.9
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color",
+      "vlm_confidence": 0.8358,
+      "tags": {
+        "turbidity": "L1",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B1",
+        "combined_tag": "L1-C3-B1"
+      },
+      "severity_scores": {
+        "turbidity_score": 1.0,
+        "color_score": 10.0,
+        "brightness_score": 1.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE值为0.6861，表明图像质量尚可，但UIQM值为0.0908，表明存在明显的色偏问题。从视觉上观察，图像整体呈现严重的绿色偏，推测为C3级别。同时，图像亮度较高，但浑浊度并不明显，因此可以认为是L1级别。综合考虑，图像的主要退化因素是色偏。"
+    },
+    "processing_time": 0.94125
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/012172.jpg",
+    "metrics": {
+      "uciqe": 0.4687,
+      "uiqm": 0.0272,
+      "color_imbalance": 0.6113,
+      "brightness": 133.64,
+      "laplacian_var": 163.39
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8779,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 7.0,
+        "color_score": 9.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像整体质量尚可，但视觉观察到严重的绿色偏色，推测为C3级别。此外，图像整体亮度较低，推测为B2级别。浑浊度方面，图像边缘模糊，推测为L2级别。"
+    },
+    "processing_time": 0.94125
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/013210.jpg",
+    "metrics": {
+      "uciqe": 0.4156,
+      "uiqm": 0.0002,
+      "color_imbalance": 2.3222,
+      "brightness": 47.26,
+      "laplacian_var": 8.17
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color",
+      "vlm_confidence": 0.8531,
+      "tags": {
+        "turbidity": "L1",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L1-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 0.0,
+        "color_score": 0.0,
+        "brightness_score": 0.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE值为0.4156，表明图像质量尚可，但UIQM值为0.0002，表明图像存在严重的色偏问题，推测为C3级别。此外，图像整体呈现绿色调，亮度较低，推测为B2级别。浑浊度方面，由于图像背景为深蓝色，且没有明显的散射现象，推测为L1级别。"
+    },
+    "processing_time": 0.94125
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/012405.jpg",
+    "metrics": {
+      "uciqe": 0.5428,
+      "uiqm": 0.0021,
+      "color_imbalance": 1.2976,
+      "brightness": 53.83,
+      "laplacian_var": 151.34
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8579,
+      "tags": {
+        "turbidity": "L1",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B3",
+        "combined_tag": "L1-C3-B3"
+      },
+      "severity_scores": {
+        "turbidity_score": 0.0,
+        "color_score": 0.0,
+        "brightness_score": 0.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和亮度不足。根据这些信息，推测图像可能属于 C3 级别的色偏和 B3 级别的亮度不足。浑浊度方面，图像整体较为清晰，没有明显的散射现象，因此推测浑浊度为 L1 级别。"
+    },
+    "processing_time": 0.94125
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005543.jpg",
+    "metrics": {
+      "uciqe": 0.3924,
+      "uiqm": 0.0038,
+      "color_imbalance": 0.8503,
+      "brightness": 116.08,
+      "laplacian_var": 35.91
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8738,
+      "tags": {
+        "turbidity": "L1",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L_-C3_-B2_"
+      },
+      "severity_scores": {
+        "turbidity_score": 0.0,
+        "color_score": 0.0,
+        "brightness_score": 0.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和较暗的亮度。浑浊度似乎较低，但整体图像偏暗，细节不明显。"
+    },
+    "processing_time": 0.94125
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000376.jpg",
+    "metrics": {
+      "uciqe": 0.415,
+      "uiqm": 0.0096,
+      "color_imbalance": 1.2256,
+      "brightness": 114.67,
+      "laplacian_var": 40.52
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8539,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE值为0.415，表明图像质量一般，但UIQM值为0.0096，表明图像存在严重的色偏问题。从视觉上来看，图像呈现出浓重的绿色调，边缘模糊，整体亮度较低，符合C3级别的色偏和L3级别的浑浊度。因此，可以推断出图像的退化程度较高。"
+    },
+    "processing_time": 0.97
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/012736.jpg",
+    "metrics": {
+      "uciqe": 0.5346,
+      "uiqm": 0.0286,
+      "color_imbalance": 0.3071,
+      "brightness": 115.79,
+      "laplacian_var": 101.23
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.7977,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 7.0,
+        "color_score": 9.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和浑浊现象。浑浊度明显影响了图像的清晰度，导致边缘模糊。色偏方面，图像呈现出明显的绿色偏色，这可能是因为水下环境中的光谱变化或拍摄设备的色温设置问题。亮度方面，图像整体偏暗，可能是由于光线条件不佳或相机曝光不足。综合考虑这些因素，可以判断图像存在较为严重的浑浊和色偏问题。"
+    },
+    "processing_time": 0.97
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/013022.jpg",
+    "metrics": {
+      "uciqe": 0.5343,
+      "uiqm": 0.0003,
+      "color_imbalance": 0.4853,
+      "brightness": 91.42,
+      "laplacian_var": 34.12
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color",
+      "vlm_confidence": 0.8408,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B1",
+        "combined_tag": "L2-C3-B1"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 2.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color",
+        "needs_enhancement": true,
+        "small_object_detectability": "medium"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉观察到严重的绿色偏色，推测为C3级别。此外，浑浊度看起来较为轻微，亮度也足够，因此整体上可以认为是L2级别。综合考虑，图像的主要退化因素是色偏。"
+    },
+    "processing_time": 0.97
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/013194.jpg",
+    "metrics": {
+      "uciqe": 0.5201,
+      "uiqm": 0.0231,
+      "color_imbalance": 1.5592,
+      "brightness": 98.28,
+      "laplacian_var": 30.15
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8743,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 6.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到明显的绿色偏色和亮度不足。浑浊度看起来较为轻微，但整体图像偏暗，细节不明显。"
+    },
+    "processing_time": 0.97
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/013330.jpg",
+    "metrics": {
+      "uciqe": 0.5604,
+      "uiqm": 0.0036,
+      "color_imbalance": 0.5185,
+      "brightness": 97.48,
+      "laplacian_var": 102.92
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8486,
+      "tags": {
+        "turbidity": "L1",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B3",
+        "combined_tag": "L_-C3_-B3_"
+      },
+      "severity_scores": {
+        "turbidity_score": 0.0,
+        "color_score": 0.0,
+        "brightness_score": 0.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到明显的绿色偏色和亮度不足。尽管 UCIQE 值较高，但色偏和亮度问题显著影响了图像质量。根据这些因素，推测图像可能属于 C3 级别色偏和 B3 级别亮度不足。"
+    },
+    "processing_time": 0.97
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/013312.jpg",
+    "metrics": {
+      "uciqe": 0.5008,
+      "uiqm": 0.0096,
+      "color_imbalance": 0.348,
+      "brightness": 114.44,
+      "laplacian_var": 200.86
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8397,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 7.0,
+        "color_score": 9.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和模糊现象。浑浊度明显，影响了细节的清晰度。亮度适中，但色偏问题显著，推测为C3级别。因此，综合考虑，浑浊度和色偏是主要退化因素。"
+    },
+    "processing_time": 0.97
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000352.jpg",
+    "metrics": {
+      "uciqe": 0.4411,
+      "uiqm": 0.0074,
+      "color_imbalance": 1.1687,
+      "brightness": 103.16,
+      "laplacian_var": 72.97
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "turbidity | color",
+      "vlm_confidence": 0.8601,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "turbidity | color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉上明显存在严重的绿色偏色和浑浊现象。LaplacianVar 表明图像细节丰富，但整体亮度较低，可能受到浑浊度的影响。根据这些信息，推测浑浊度为 L3 级别，色偏为 C3 级别，亮度为 B2 级别。"
+    },
+    "processing_time": 0.97
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/013945.jpg",
+    "metrics": {
+      "uciqe": 0.5624,
+      "uiqm": 0.0055,
+      "color_imbalance": 0.5403,
+      "brightness": 100.36,
+      "laplacian_var": 254.77
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color",
+      "vlm_confidence": 0.8503,
+      "tags": {
+        "turbidity": "L1",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L1-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 2.0,
+        "color_score": 10.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到明显的绿色偏色和较暗的亮度。浑浊度似乎较低，但整体图像偏暗，可能由于光线条件不佳。因此，推测浑浊度为 L1，色偏为 C3，亮度为 B2。"
+    },
+    "processing_time": 0.97
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/013854.jpg",
+    "metrics": {
+      "uciqe": 0.539,
+      "uiqm": 0.0069,
+      "color_imbalance": 0.7751,
+      "brightness": 103.29,
+      "laplacian_var": 417.65
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color",
+      "vlm_confidence": 0.8558,
+      "tags": {
+        "turbidity": "L1",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B1",
+        "combined_tag": "L1-C3-B1"
+      },
+      "severity_scores": {
+        "turbidity_score": 0.0,
+        "color_score": 0.0,
+        "brightness_score": 0.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color",
+        "needs_enhancement": true,
+        "small_object_detectability": "high"
+      },
+      "reasoning": "UCIQE值为0.539，表明图像质量尚可，但UIQM值为0.0069，表明图像存在严重的色偏问题。从视觉上观察，图像呈现出明显的绿色偏移，推测为C3级别。亮度值为103.29，表明图像亮度充足，属于B1级别。浑浊度方面，图像整体较为清晰，结构完整，推测为L1级别。"
+    },
+    "processing_time": 0.9375
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/004684.jpg",
+    "metrics": {
+      "uciqe": 0.6062,
+      "uiqm": 0.0254,
+      "color_imbalance": 1.4928,
+      "brightness": 94.09,
+      "laplacian_var": 754.38
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8681,
+      "tags": {
+        "turbidity": "L1",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B3",
+        "combined_tag": "L1-C3-B3"
+      },
+      "severity_scores": {
+        "turbidity_score": 0.0,
+        "color_score": 0.0,
+        "brightness_score": 0.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和较暗的亮度。根据这些特征，推测图像可能属于 C3 级别的色偏和 B3 级别的亮度。浑浊度方面，由于没有明显的散射现象，推测为 L1 级别。"
+    },
+    "processing_time": 0.9375
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/004616.jpg",
+    "metrics": {
+      "uciqe": 0.507,
+      "uiqm": 0.0175,
+      "color_imbalance": 0.6608,
+      "brightness": 107.19,
+      "laplacian_var": 76.03
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8619,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 7.0,
+        "color_score": 9.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉观察到严重的绿色偏色，推测为C3级别。浑浊度明显，影响了细节的清晰度，推测为L2级别。亮度适中，没有明显的过曝或欠曝现象，推测为B2级别。综合考虑，图像的主要退化因素是色偏和浑浊度。"
+    },
+    "processing_time": 0.9375
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/004929.jpg",
+    "metrics": {
+      "uciqe": 0.4971,
+      "uiqm": 0.0067,
+      "color_imbalance": 0.4066,
+      "brightness": 72.74,
+      "laplacian_var": 467.34
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color",
+      "vlm_confidence": 0.8689,
+      "tags": {
+        "turbidity": "L1",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L1-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 0.0,
+        "color_score": 0.0,
+        "brightness_score": 0.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉观察到严重的绿色偏色，推测为C3级别。浑浊度看起来较为清晰，但亮度较低，推测为B2级别。综合考虑，图像存在明显的色偏问题。"
+    },
+    "processing_time": 0.9375
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/012422.jpg",
+    "metrics": {
+      "uciqe": 0.5861,
+      "uiqm": 0.0134,
+      "color_imbalance": 0.3623,
+      "brightness": 81.8,
+      "laplacian_var": 38.62
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color",
+      "vlm_confidence": 0.8425,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉观察到严重的绿色偏色，推测为C3级别。浑浊度由于水下环境影响，存在轻微雾化现象，属于L2级别。亮度方面，虽然能量受限，但整体亮度尚可，属于B2级别。综合考虑，图像的主要退化因素是色偏。"
+    },
+    "processing_time": 0.9375
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005357.jpg",
+    "metrics": {
+      "uciqe": 0.5214,
+      "uiqm": 0.0158,
+      "color_imbalance": 1.3635,
+      "brightness": 124.46,
+      "laplacian_var": 468.11
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8657,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和模糊现象。LaplacianVar 高表明存在明显的细节损失。综合考虑这些因素，推测图像可能处于 C3 级别色偏和 L3 级别浑浊度。"
+    },
+    "processing_time": 0.9375
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005388.jpg",
+    "metrics": {
+      "uciqe": 0.6562,
+      "uiqm": 0.1643,
+      "color_imbalance": 0.6793,
+      "brightness": 132.04,
+      "laplacian_var": 3772.48
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color",
+      "vlm_confidence": 0.8422,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B1",
+        "combined_tag": "L2-C3-B1"
+      },
+      "severity_scores": {
+        "turbidity_score": 5.0,
+        "color_score": 9.0,
+        "brightness_score": 2.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color",
+        "needs_enhancement": true,
+        "small_object_detectability": "medium"
+      },
+      "reasoning": "UCIQE值为0.6562，表明图像质量尚可，但UIQM值为0.1643，表明存在明显的色偏问题。从视觉上观察，图像呈现出严重的绿色偏，推测为C3级别。同时，图像整体亮度适中，但存在一些细节模糊现象，推测为L2级别。综合考虑这些因素，可以得出结论。"
+    },
+    "processing_time": 0.9375
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000463.jpg",
+    "metrics": {
+      "uciqe": 0.4801,
+      "uiqm": 0.0117,
+      "color_imbalance": 1.1051,
+      "brightness": 121.73,
+      "laplacian_var": 48.65
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8322,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉上存在严重的绿色偏色和浑浊现象。LaplacianVar 表明图像细节丰富，但整体亮度较低，可能受到浑浊度的影响。ColorImbalance 显示明显的色偏，推测为 C3 级别。亮度偏低，推测为 B2 级别。综合考虑这些因素，图像的浑浊度和色偏较为严重。"
+    },
+    "processing_time": 0.9375
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000001.jpg",
+    "metrics": {
+      "uciqe": 0.4233,
+      "uiqm": 0.0108,
+      "color_imbalance": 0.1942,
+      "brightness": 127.36,
+      "laplacian_var": 117.86
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8582,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉上存在明显的绿色偏色，推测为C3级别。同时，图像整体较为模糊，可能受到浑浊度的影响，推测为L2级别。亮度方面，虽然能量受限，但并未达到极低照度的程度，推测为B2级别。"
+    },
+    "processing_time": 0.99875
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000461.jpg",
+    "metrics": {
+      "uciqe": 0.4776,
+      "uiqm": 0.0114,
+      "color_imbalance": 1.1143,
+      "brightness": 121.74,
+      "laplacian_var": 39.04
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "turbidity | color",
+      "vlm_confidence": 0.8369,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "turbidity | color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉上存在严重的绿色偏色和浑浊现象。LaplacianVar 表明图像细节丰富，但整体亮度较低，可能受到浑浊度的影响。ColorImbalance 显示明显的色偏，推测为 C3 级别。亮度偏低，推测为 B2 级别。综合考虑这些因素，推测浑浊度为 L3 级别。"
+    },
+    "processing_time": 0.99875
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/004554.jpg",
+    "metrics": {
+      "uciqe": 0.5345,
+      "uiqm": 0.02,
+      "color_imbalance": 0.8145,
+      "brightness": 111.26,
+      "laplacian_var": 292.96
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8616,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 3.0,
+        "color_score": 8.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉观察到严重的绿色偏色，推测为C3级别。此外，图像整体偏暗，亮度较低，推测为B2级别。浑浊度方面，由于水下环境，存在一定的浑浊现象，但不严重，推测为L2级别。"
+    },
+    "processing_time": 0.99875
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/013601.jpg",
+    "metrics": {
+      "uciqe": 0.6074,
+      "uiqm": 0.0171,
+      "color_imbalance": 0.219,
+      "brightness": 119.13,
+      "laplacian_var": 648.01
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color",
+      "vlm_confidence": 0.8035,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B1",
+        "combined_tag": "L2-C3-B1"
+      },
+      "severity_scores": {
+        "turbidity_score": 3.0,
+        "color_score": 9.0,
+        "brightness_score": 0.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE值为0.6074，表明图像质量尚可，但UIQM值为0.0171，表明图像存在明显的色偏问题。从视觉上观察，图像整体呈现绿色调，可能是因为水下环境中的藻类或其他生物反射了绿色光谱。此外，图像的亮度值为119.13，表明辐照度充足，但整体色调偏绿，导致色偏严重。因此，可以推测图像属于C3级别，即严重的绿色/黄色/褐色偏，固有色基本丧失。"
+    },
+    "processing_time": 0.99875
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005704.jpg",
+    "metrics": {
+      "uciqe": 0.5101,
+      "uiqm": 0.0235,
+      "color_imbalance": 1.0147,
+      "brightness": 119.4,
+      "laplacian_var": 372.52
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | brightness",
+      "vlm_confidence": 0.8427,
+      "tags": {
+        "turbidity": "L1",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B3",
+        "combined_tag": "L_-C3_-B3_"
+      },
+      "severity_scores": {
+        "turbidity_score": 0.0,
+        "color_score": 0.0,
+        "brightness_score": 0.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | brightness",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和较暗的亮度。根据这些特征，推测图像可能属于 C3 级别的色偏和 B3 级别的亮度不足。浑浊度方面，由于没有明显的散射现象，推测为 L1 级别。综合考虑，图像的浑浊度、色偏和亮度都存在显著问题。"
+    },
+    "processing_time": 0.99875
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/004600.jpg",
+    "metrics": {
+      "uciqe": 0.5524,
+      "uiqm": 0.0075,
+      "color_imbalance": 1.5857,
+      "brightness": 79.13,
+      "laplacian_var": 132.13
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color",
+      "vlm_confidence": 0.8155,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 6.0,
+        "color_score": 9.0,
+        "brightness_score": 6.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE值为0.5524，表明图像质量尚可，但UIQM值为0.0075，表明图像存在明显的色偏问题。从视觉上观察，图像整体呈现严重的绿色偏，推测为C3级别。同时，图像亮度较低，属于B2级别。浑浊度方面，由于水下环境，图像本身具有一定的浑浊度，但并未达到L3级别。综合考虑，图像的主要退化因素是色偏和亮度。"
+    },
+    "processing_time": 0.99875
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/005693.jpg",
+    "metrics": {
+      "uciqe": 0.6167,
+      "uiqm": 0.0099,
+      "color_imbalance": 0.6488,
+      "brightness": 89.23,
+      "laplacian_var": 185.45
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "turbidity | color_cast",
+      "vlm_confidence": 0.8627,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 9.0,
+        "color_score": 9.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "turbidity | color_cast",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像整体质量尚可，但视觉观察到严重的绿色偏色，推测为C3级别。浑浊度明显，细节丢失严重，亮度适中，但受浑浊影响，整体亮度降低。"
+    },
+    "processing_time": 0.99875
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/012335.jpg",
+    "metrics": {
+      "uciqe": 0.6263,
+      "uiqm": 0.0914,
+      "color_imbalance": 0.2161,
+      "brightness": 124.84,
+      "laplacian_var": 4385.25
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.844,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 7.0,
+        "color_score": 9.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像整体质量尚可，但视觉观察到明显的绿色偏色，推测为C3级别。此外，图像整体亮度适中，但存在一些细节模糊现象，推测为L2级别。综合考虑，图像的色偏和浑浊度较为严重，亮度适中。"
+    },
+    "processing_time": 0.99875
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000807.jpg",
+    "metrics": {
+      "uciqe": 0.4736,
+      "uiqm": 0.0081,
+      "color_imbalance": 1.1564,
+      "brightness": 112.47,
+      "laplacian_var": 78.13
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8438,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 4.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "根据UCIQE和UIQM指标，图像质量尚可，但视觉上存在严重的绿色偏色，推测为C3级别。同时，图像整体呈绿色调，表明存在浓重的散射现象，推测为L3级别。亮度方面，虽然数值较高，但整体偏暗，推测为B2级别。综合考虑，图像的主要退化因素是色偏和浑浊度。"
+    },
+    "processing_time": 1.4175
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000811.jpg",
+    "metrics": {
+      "uciqe": 0.4819,
+      "uiqm": 0.0063,
+      "color_imbalance": 1.1421,
+      "brightness": 108.13,
+      "laplacian_var": 101.16
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8376,
+      "tags": {
+        "turbidity": "L2",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L2-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 5.0,
+        "color_score": 9.0,
+        "brightness_score": 5.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉上存在明显的绿色偏色和浑浊现象。浑浊度导致了细节的模糊，而色偏则使得固有色几乎丧失。亮度方面，虽然数值较高，但整体画面偏暗，可能是由于浑浊度和色偏共同作用的结果。"
+    },
+    "processing_time": 1.4175
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000734.jpg",
+    "metrics": {
+      "uciqe": 0.4707,
+      "uiqm": 0.0078,
+      "color_imbalance": 1.1537,
+      "brightness": 110.25,
+      "laplacian_var": 95.37
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "color | turbidity",
+      "vlm_confidence": 0.8342,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 6.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "color | turbidity",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉上存在严重的绿色偏色和浑浊现象。LaplacianVar 表明图像细节丰富，但整体亮度较低，可能受到浑浊度的影响。ColorImbalance 显示明显的色偏，推测为 C3 级别。亮度偏低，推测为 B2 级别。综合考虑这些因素，图像的浑浊度和色偏较为严重。"
+    },
+    "processing_time": 1.4175
+  },
+  {
+    "image_path": "/root/autodl-tmp/bi/ROUD/blur/000731.jpg",
+    "metrics": {
+      "uciqe": 0.4766,
+      "uiqm": 0.0083,
+      "color_imbalance": 1.1411,
+      "brightness": 108.61,
+      "laplacian_var": 102.22
+    },
+    "hybrid_evaluation": {
+      "needs_enhancement": true,
+      "final_decision_source": "VLM",
+      "enhancement_priority": "turbidity | color",
+      "vlm_confidence": 0.8587,
+      "tags": {
+        "turbidity": "L3",
+        "color_cast": "C3",
+        "color_type": "green",
+        "brightness": "B2",
+        "combined_tag": "L3-C3-B2"
+      },
+      "severity_scores": {
+        "turbidity_score": 8.0,
+        "color_score": 8.0,
+        "brightness_score": 3.0
+      },
+      "physical_diagnostics": {
+        "dominant_degradation": "turbidity | color",
+        "needs_enhancement": true,
+        "small_object_detectability": "low"
+      },
+      "reasoning": "UCIQE 和 UIQM 指标显示图像质量尚可，但视觉观察到严重的绿色偏色和浑浊现象。浑浊度明显，导致细节丢失，而色偏则表现为明显的绿色偏色，亮度适中。综合这些因素，推测浑浊度为 L3 级别，色偏为 C3 级别，亮度为 B2 级别。"
+    },
+    "processing_time": 1.4175
+  }
+]

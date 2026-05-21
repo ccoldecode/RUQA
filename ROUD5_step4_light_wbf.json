@@ -1,0 +1,647 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "003993.jpg",
+      "width": 600,
+      "height": 450
+    },
+    {
+      "id": 2,
+      "file_name": "001464.jpg",
+      "width": 720,
+      "height": 405
+    },
+    {
+      "id": 3,
+      "file_name": "003910.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 4,
+      "file_name": "001475.jpg",
+      "width": 720,
+      "height": 405
+    },
+    {
+      "id": 5,
+      "file_name": "004011.jpg",
+      "width": 634,
+      "height": 395
+    },
+    {
+      "id": 6,
+      "file_name": "003903.jpg",
+      "width": 1600,
+      "height": 1068
+    },
+    {
+      "id": 7,
+      "file_name": "004049.jpg",
+      "width": 500,
+      "height": 738
+    },
+    {
+      "id": 8,
+      "file_name": "004532.jpg",
+      "width": 1016,
+      "height": 655
+    },
+    {
+      "id": 9,
+      "file_name": "003901.jpg",
+      "width": 700,
+      "height": 525
+    },
+    {
+      "id": 10,
+      "file_name": "003899.jpg",
+      "width": 1023,
+      "height": 682
+    },
+    {
+      "id": 11,
+      "file_name": "000094.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 12,
+      "file_name": "004329.jpg",
+      "width": 663,
+      "height": 963
+    },
+    {
+      "id": 13,
+      "file_name": "003916.jpg",
+      "width": 641,
+      "height": 480
+    },
+    {
+      "id": 14,
+      "file_name": "000088.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 15,
+      "file_name": "003179.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 16,
+      "file_name": "004595.jpg",
+      "width": 1688,
+      "height": 1125
+    },
+    {
+      "id": 17,
+      "file_name": "004615.jpg",
+      "width": 800,
+      "height": 1058
+    },
+    {
+      "id": 18,
+      "file_name": "004650.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 19,
+      "file_name": "004892.jpg",
+      "width": 1600,
+      "height": 986
+    },
+    {
+      "id": 20,
+      "file_name": "004829.jpg",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": 21,
+      "file_name": "005152.jpg",
+      "width": 500,
+      "height": 333
+    },
+    {
+      "id": 22,
+      "file_name": "005187.jpg",
+      "width": 500,
+      "height": 360
+    },
+    {
+      "id": 23,
+      "file_name": "005128.jpg",
+      "width": 500,
+      "height": 333
+    },
+    {
+      "id": 24,
+      "file_name": "005309.jpg",
+      "width": 500,
+      "height": 741
+    },
+    {
+      "id": 25,
+      "file_name": "005480.jpg",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "id": 26,
+      "file_name": "005330.jpg",
+      "width": 500,
+      "height": 397
+    },
+    {
+      "id": 27,
+      "file_name": "005390.jpg",
+      "width": 828,
+      "height": 570
+    },
+    {
+      "id": 28,
+      "file_name": "005749.jpg",
+      "width": 1200,
+      "height": 743
+    },
+    {
+      "id": 29,
+      "file_name": "005793.jpg",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "id": 30,
+      "file_name": "005849.jpg",
+      "width": 1280,
+      "height": 805
+    },
+    {
+      "id": 31,
+      "file_name": "006248.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 32,
+      "file_name": "006353.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": 33,
+      "file_name": "006350.jpg",
+      "width": 523,
+      "height": 670
+    },
+    {
+      "id": 34,
+      "file_name": "005994.jpg",
+      "width": 700,
+      "height": 499
+    },
+    {
+      "id": 35,
+      "file_name": "006446.jpg",
+      "width": 670,
+      "height": 502
+    },
+    {
+      "id": 36,
+      "file_name": "006438.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": 37,
+      "file_name": "006504.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": 38,
+      "file_name": "006627.jpg",
+      "width": 4200,
+      "height": 2800
+    },
+    {
+      "id": 39,
+      "file_name": "006690.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": 40,
+      "file_name": "006794.jpg",
+      "width": 4608,
+      "height": 3456
+    },
+    {
+      "id": 41,
+      "file_name": "006845.jpg",
+      "width": 1600,
+      "height": 804
+    },
+    {
+      "id": 42,
+      "file_name": "006920.jpg",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "id": 43,
+      "file_name": "006973.jpg",
+      "width": 710,
+      "height": 359
+    },
+    {
+      "id": 44,
+      "file_name": "007806.jpg",
+      "width": 1273,
+      "height": 668
+    },
+    {
+      "id": 45,
+      "file_name": "007315.jpg",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "id": 46,
+      "file_name": "007807.jpg",
+      "width": 1273,
+      "height": 657
+    },
+    {
+      "id": 47,
+      "file_name": "008321.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 48,
+      "file_name": "008498.jpg",
+      "width": 1095,
+      "height": 589
+    },
+    {
+      "id": 49,
+      "file_name": "008825.jpg",
+      "width": 900,
+      "height": 582
+    },
+    {
+      "id": 50,
+      "file_name": "009659.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 51,
+      "file_name": "010383.jpg",
+      "width": 1666,
+      "height": 1078
+    },
+    {
+      "id": 52,
+      "file_name": "000082.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 53,
+      "file_name": "007570.jpg",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "id": 54,
+      "file_name": "003868.jpg",
+      "width": 850,
+      "height": 478
+    },
+    {
+      "id": 55,
+      "file_name": "003858.jpg",
+      "width": 600,
+      "height": 453
+    },
+    {
+      "id": 56,
+      "file_name": "003850.jpg",
+      "width": 515,
+      "height": 700
+    },
+    {
+      "id": 57,
+      "file_name": "004267.jpg",
+      "width": 540,
+      "height": 483
+    },
+    {
+      "id": 58,
+      "file_name": "004023.jpg",
+      "width": 500,
+      "height": 723
+    },
+    {
+      "id": 59,
+      "file_name": "004037.jpg",
+      "width": 500,
+      "height": 628
+    },
+    {
+      "id": 60,
+      "file_name": "003938.jpg",
+      "width": 680,
+      "height": 510
+    },
+    {
+      "id": 61,
+      "file_name": "004478.jpg",
+      "width": 600,
+      "height": 400
+    },
+    {
+      "id": 62,
+      "file_name": "004338.jpg",
+      "width": 956,
+      "height": 617
+    },
+    {
+      "id": 63,
+      "file_name": "003989.jpg",
+      "width": 600,
+      "height": 900
+    },
+    {
+      "id": 64,
+      "file_name": "004242.jpg",
+      "width": 956,
+      "height": 619
+    },
+    {
+      "id": 65,
+      "file_name": "003980.jpg",
+      "width": 1080,
+      "height": 1354
+    },
+    {
+      "id": 66,
+      "file_name": "004469.jpg",
+      "width": 900,
+      "height": 599
+    },
+    {
+      "id": 67,
+      "file_name": "003863.jpg",
+      "width": 1023,
+      "height": 685
+    },
+    {
+      "id": 68,
+      "file_name": "004447.jpg",
+      "width": 2560,
+      "height": 1685
+    },
+    {
+      "id": 69,
+      "file_name": "004340.jpg",
+      "width": 1000,
+      "height": 666
+    },
+    {
+      "id": 70,
+      "file_name": "004599.jpg",
+      "width": 1200,
+      "height": 786
+    },
+    {
+      "id": 71,
+      "file_name": "004690.jpg",
+      "width": 1200,
+      "height": 804
+    },
+    {
+      "id": 72,
+      "file_name": "004744.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": 73,
+      "file_name": "004785.jpg",
+      "width": 5400,
+      "height": 3600
+    },
+    {
+      "id": 74,
+      "file_name": "004845.jpg",
+      "width": 1100,
+      "height": 733
+    },
+    {
+      "id": 75,
+      "file_name": "004795.jpg",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "id": 76,
+      "file_name": "005024.jpg",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "id": 77,
+      "file_name": "005038.jpg",
+      "width": 660,
+      "height": 495
+    },
+    {
+      "id": 78,
+      "file_name": "005046.jpg",
+      "width": 612,
+      "height": 344
+    },
+    {
+      "id": 79,
+      "file_name": "005100.jpg",
+      "width": 500,
+      "height": 333
+    },
+    {
+      "id": 80,
+      "file_name": "005323.jpg",
+      "width": 498,
+      "height": 720
+    },
+    {
+      "id": 81,
+      "file_name": "005916.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 82,
+      "file_name": "006348.jpg",
+      "width": 530,
+      "height": 794
+    },
+    {
+      "id": 83,
+      "file_name": "006400.jpg",
+      "width": 799,
+      "height": 450
+    },
+    {
+      "id": 84,
+      "file_name": "006420.jpg",
+      "width": 1300,
+      "height": 866
+    },
+    {
+      "id": 85,
+      "file_name": "006401.jpg",
+      "width": 584,
+      "height": 438
+    },
+    {
+      "id": 86,
+      "file_name": "006647.jpg",
+      "width": 887,
+      "height": 439
+    },
+    {
+      "id": 87,
+      "file_name": "006700.jpg",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "id": 88,
+      "file_name": "006712.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": 89,
+      "file_name": "006396.jpg",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 90,
+      "file_name": "006865.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 91,
+      "file_name": "006924.jpg",
+      "width": 1920,
+      "height": 964
+    },
+    {
+      "id": 92,
+      "file_name": "007847.jpg",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "id": 93,
+      "file_name": "008964.jpg",
+      "width": 900,
+      "height": 696
+    },
+    {
+      "id": 94,
+      "file_name": "008572.jpg",
+      "width": 650,
+      "height": 433
+    },
+    {
+      "id": 95,
+      "file_name": "009334.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 96,
+      "file_name": "009497.jpg",
+      "width": 1195,
+      "height": 559
+    },
+    {
+      "id": 97,
+      "file_name": "013331.jpg",
+      "width": 1090,
+      "height": 569
+    },
+    {
+      "id": 98,
+      "file_name": "006522.jpg",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 99,
+      "file_name": "006641.jpg",
+      "width": 600,
+      "height": 450
+    },
+    {
+      "id": 100,
+      "file_name": "009332.jpg",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "annotations": [],
+  "categories": [
+    {
+      "id": 1,
+      "name": "holothurian"
+    },
+    {
+      "id": 2,
+      "name": "echinus"
+    },
+    {
+      "id": 3,
+      "name": "scallop"
+    },
+    {
+      "id": 4,
+      "name": "starfish"
+    },
+    {
+      "id": 5,
+      "name": "fish"
+    },
+    {
+      "id": 6,
+      "name": "corals"
+    },
+    {
+      "id": 7,
+      "name": "diver"
+    },
+    {
+      "id": 8,
+      "name": "squid"
+    },
+    {
+      "id": 9,
+      "name": "turtle"
+    },
+    {
+      "id": 10,
+      "name": "jellyfish"
+    }
+  ]
+}

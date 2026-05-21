@@ -1,0 +1,1102 @@
+[
+    {
+        "image_name": "003993.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/003993.jpg",
+        "metrics": {
+            "uciqe": 0.6168,
+            "uiqm": 0.2352,
+            "color_imbalance": 0.8715,
+            "brightness": 94.45,
+            "laplacian_var": 1055.1
+        }
+    },
+    {
+        "image_name": "001464.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/001464.jpg",
+        "metrics": {
+            "uciqe": 0.5299,
+            "uiqm": 0.0716,
+            "color_imbalance": 0.8602,
+            "brightness": 128.91,
+            "laplacian_var": 306.58
+        }
+    },
+    {
+        "image_name": "003868.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/003868.jpg",
+        "metrics": {
+            "uciqe": 0.3811,
+            "uiqm": 0.0073,
+            "color_imbalance": 0.8452,
+            "brightness": 126.57,
+            "laplacian_var": 152.86
+        }
+    },
+    {
+        "image_name": "003910.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/003910.jpg",
+        "metrics": {
+            "uciqe": 0.5411,
+            "uiqm": 0.0077,
+            "color_imbalance": 1.3612,
+            "brightness": 70.34,
+            "laplacian_var": 264.17
+        }
+    },
+    {
+        "image_name": "001475.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/001475.jpg",
+        "metrics": {
+            "uciqe": 0.5158,
+            "uiqm": 0.0827,
+            "color_imbalance": 0.7426,
+            "brightness": 136.23,
+            "laplacian_var": 373.95
+        }
+    },
+    {
+        "image_name": "003858.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/003858.jpg",
+        "metrics": {
+            "uciqe": 0.657,
+            "uiqm": 0.1636,
+            "color_imbalance": 0.9574,
+            "brightness": 80.7,
+            "laplacian_var": 555.62
+        }
+    },
+    {
+        "image_name": "003850.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/003850.jpg",
+        "metrics": {
+            "uciqe": 0.6258,
+            "uiqm": 0.0449,
+            "color_imbalance": 0.3324,
+            "brightness": 123.8,
+            "laplacian_var": 832.81
+        }
+    },
+    {
+        "image_name": "004267.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004267.jpg",
+        "metrics": {
+            "uciqe": 0.6893,
+            "uiqm": 0.0495,
+            "color_imbalance": 0.5076,
+            "brightness": 102.27,
+            "laplacian_var": 98.08
+        }
+    },
+    {
+        "image_name": "004023.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004023.jpg",
+        "metrics": {
+            "uciqe": 0.6476,
+            "uiqm": 0.0218,
+            "color_imbalance": 0.712,
+            "brightness": 93.26,
+            "laplacian_var": 183.59
+        }
+    },
+    {
+        "image_name": "004011.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004011.jpg",
+        "metrics": {
+            "uciqe": 0.6493,
+            "uiqm": 0.0736,
+            "color_imbalance": 0.7425,
+            "brightness": 109.53,
+            "laplacian_var": 255.5
+        }
+    },
+    {
+        "image_name": "004037.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004037.jpg",
+        "metrics": {
+            "uciqe": 0.6414,
+            "uiqm": 0.3108,
+            "color_imbalance": 0.3196,
+            "brightness": 143.66,
+            "laplacian_var": 957.97
+        }
+    },
+    {
+        "image_name": "003938.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/003938.jpg",
+        "metrics": {
+            "uciqe": 0.6842,
+            "uiqm": 0.4791,
+            "color_imbalance": 0.7688,
+            "brightness": 100.39,
+            "laplacian_var": 2932.83
+        }
+    },
+    {
+        "image_name": "004478.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004478.jpg",
+        "metrics": {
+            "uciqe": 0.6371,
+            "uiqm": 0.1383,
+            "color_imbalance": 0.7745,
+            "brightness": 115.73,
+            "laplacian_var": 684.0
+        }
+    },
+    {
+        "image_name": "003903.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/003903.jpg",
+        "metrics": {
+            "uciqe": 0.5552,
+            "uiqm": 0.0281,
+            "color_imbalance": 0.7852,
+            "brightness": 121.48,
+            "laplacian_var": 934.85
+        }
+    },
+    {
+        "image_name": "004049.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004049.jpg",
+        "metrics": {
+            "uciqe": 0.6735,
+            "uiqm": 0.0591,
+            "color_imbalance": 0.2257,
+            "brightness": 80.4,
+            "laplacian_var": 897.25
+        }
+    },
+    {
+        "image_name": "004338.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004338.jpg",
+        "metrics": {
+            "uciqe": 0.5911,
+            "uiqm": 0.0316,
+            "color_imbalance": 0.8062,
+            "brightness": 71.52,
+            "laplacian_var": 234.73
+        }
+    },
+    {
+        "image_name": "004532.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004532.jpg",
+        "metrics": {
+            "uciqe": 0.551,
+            "uiqm": 0.0431,
+            "color_imbalance": 0.6576,
+            "brightness": 106.13,
+            "laplacian_var": 167.58
+        }
+    },
+    {
+        "image_name": "003989.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/003989.jpg",
+        "metrics": {
+            "uciqe": 0.5797,
+            "uiqm": 0.0128,
+            "color_imbalance": 0.8781,
+            "brightness": 89.27,
+            "laplacian_var": 402.61
+        }
+    },
+    {
+        "image_name": "003901.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/003901.jpg",
+        "metrics": {
+            "uciqe": 0.5689,
+            "uiqm": 0.2446,
+            "color_imbalance": 0.4286,
+            "brightness": 87.15,
+            "laplacian_var": 1821.87
+        }
+    },
+    {
+        "image_name": "003899.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/003899.jpg",
+        "metrics": {
+            "uciqe": 0.6266,
+            "uiqm": 0.0402,
+            "color_imbalance": 0.5692,
+            "brightness": 142.64,
+            "laplacian_var": 457.41
+        }
+    },
+    {
+        "image_name": "000094.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/000094.jpg",
+        "metrics": {
+            "uciqe": 0.588,
+            "uiqm": 0.0335,
+            "color_imbalance": 0.6667,
+            "brightness": 101.32,
+            "laplacian_var": 1432.9
+        }
+    },
+    {
+        "image_name": "004329.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004329.jpg",
+        "metrics": {
+            "uciqe": 0.5734,
+            "uiqm": 0.1011,
+            "color_imbalance": 0.8279,
+            "brightness": 63.16,
+            "laplacian_var": 2512.44
+        }
+    },
+    {
+        "image_name": "004242.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004242.jpg",
+        "metrics": {
+            "uciqe": 0.6173,
+            "uiqm": 0.0354,
+            "color_imbalance": 1.1199,
+            "brightness": 94.24,
+            "laplacian_var": 328.58
+        }
+    },
+    {
+        "image_name": "003916.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/003916.jpg",
+        "metrics": {
+            "uciqe": 0.6378,
+            "uiqm": 0.1376,
+            "color_imbalance": 0.0827,
+            "brightness": 108.78,
+            "laplacian_var": 835.27
+        }
+    },
+    {
+        "image_name": "003980.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/003980.jpg",
+        "metrics": {
+            "uciqe": 0.6807,
+            "uiqm": 0.043,
+            "color_imbalance": 0.3867,
+            "brightness": 132.88,
+            "laplacian_var": 933.47
+        }
+    },
+    {
+        "image_name": "004469.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004469.jpg",
+        "metrics": {
+            "uciqe": 0.6139,
+            "uiqm": 0.1901,
+            "color_imbalance": 0.4959,
+            "brightness": 137.74,
+            "laplacian_var": 1929.96
+        }
+    },
+    {
+        "image_name": "003863.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/003863.jpg",
+        "metrics": {
+            "uciqe": 0.6286,
+            "uiqm": 0.0618,
+            "color_imbalance": 1.0232,
+            "brightness": 68.62,
+            "laplacian_var": 2166.97
+        }
+    },
+    {
+        "image_name": "000088.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/000088.jpg",
+        "metrics": {
+            "uciqe": 0.5185,
+            "uiqm": 0.0812,
+            "color_imbalance": 0.6537,
+            "brightness": 140.44,
+            "laplacian_var": 3188.89
+        }
+    },
+    {
+        "image_name": "004447.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004447.jpg",
+        "metrics": {
+            "uciqe": 0.585,
+            "uiqm": 0.0129,
+            "color_imbalance": 0.8749,
+            "brightness": 53.21,
+            "laplacian_var": 1449.58
+        }
+    },
+    {
+        "image_name": "004340.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004340.jpg",
+        "metrics": {
+            "uciqe": 0.6816,
+            "uiqm": 0.3847,
+            "color_imbalance": 0.2415,
+            "brightness": 124.95,
+            "laplacian_var": 3781.71
+        }
+    },
+    {
+        "image_name": "003179.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/003179.jpg",
+        "metrics": {
+            "uciqe": 0.5443,
+            "uiqm": 0.0648,
+            "color_imbalance": 0.7326,
+            "brightness": 134.74,
+            "laplacian_var": 2635.45
+        }
+    },
+    {
+        "image_name": "004595.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004595.jpg",
+        "metrics": {
+            "uciqe": 0.6289,
+            "uiqm": 0.1071,
+            "color_imbalance": 1.4134,
+            "brightness": 71.56,
+            "laplacian_var": 2221.41
+        }
+    },
+    {
+        "image_name": "004599.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004599.jpg",
+        "metrics": {
+            "uciqe": 0.6002,
+            "uiqm": 0.0345,
+            "color_imbalance": 1.2311,
+            "brightness": 88.55,
+            "laplacian_var": 803.55
+        }
+    },
+    {
+        "image_name": "004615.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004615.jpg",
+        "metrics": {
+            "uciqe": 0.5979,
+            "uiqm": 0.0668,
+            "color_imbalance": 0.2442,
+            "brightness": 57.14,
+            "laplacian_var": 1983.57
+        }
+    },
+    {
+        "image_name": "004690.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004690.jpg",
+        "metrics": {
+            "uciqe": 0.6415,
+            "uiqm": 0.0486,
+            "color_imbalance": 1.4937,
+            "brightness": 57.05,
+            "laplacian_var": 749.55
+        }
+    },
+    {
+        "image_name": "004650.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004650.jpg",
+        "metrics": {
+            "uciqe": 0.606,
+            "uiqm": 0.0947,
+            "color_imbalance": 1.3735,
+            "brightness": 115.47,
+            "laplacian_var": 1784.49
+        }
+    },
+    {
+        "image_name": "004744.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004744.jpg",
+        "metrics": {
+            "uciqe": 0.6619,
+            "uiqm": 0.1782,
+            "color_imbalance": 0.3279,
+            "brightness": 144.35,
+            "laplacian_var": 1045.02
+        }
+    },
+    {
+        "image_name": "004785.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004785.jpg",
+        "metrics": {
+            "uciqe": 0.65,
+            "uiqm": 0.0058,
+            "color_imbalance": 0.7428,
+            "brightness": 101.16,
+            "laplacian_var": 1279.77
+        }
+    },
+    {
+        "image_name": "004845.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004845.jpg",
+        "metrics": {
+            "uciqe": 0.6814,
+            "uiqm": 0.1217,
+            "color_imbalance": 0.6951,
+            "brightness": 88.31,
+            "laplacian_var": 2219.74
+        }
+    },
+    {
+        "image_name": "004795.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004795.jpg",
+        "metrics": {
+            "uciqe": 0.6456,
+            "uiqm": 0.0507,
+            "color_imbalance": 0.3694,
+            "brightness": 114.7,
+            "laplacian_var": 1733.77
+        }
+    },
+    {
+        "image_name": "004892.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004892.jpg",
+        "metrics": {
+            "uciqe": 0.5021,
+            "uiqm": 0.0145,
+            "color_imbalance": 0.762,
+            "brightness": 105.82,
+            "laplacian_var": 1130.16
+        }
+    },
+    {
+        "image_name": "005024.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/005024.jpg",
+        "metrics": {
+            "uciqe": 0.5561,
+            "uiqm": 0.0814,
+            "color_imbalance": 1.4094,
+            "brightness": 85.25,
+            "laplacian_var": 770.38
+        }
+    },
+    {
+        "image_name": "005038.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/005038.jpg",
+        "metrics": {
+            "uciqe": 0.6877,
+            "uiqm": 0.2068,
+            "color_imbalance": 0.3125,
+            "brightness": 100.3,
+            "laplacian_var": 1626.55
+        }
+    },
+    {
+        "image_name": "005046.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/005046.jpg",
+        "metrics": {
+            "uciqe": 0.587,
+            "uiqm": 0.1464,
+            "color_imbalance": 0.5187,
+            "brightness": 139.35,
+            "laplacian_var": 796.01
+        }
+    },
+    {
+        "image_name": "004829.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/004829.jpg",
+        "metrics": {
+            "uciqe": 0.698,
+            "uiqm": 0.0566,
+            "color_imbalance": 0.5315,
+            "brightness": 105.72,
+            "laplacian_var": 3850.42
+        }
+    },
+    {
+        "image_name": "005152.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/005152.jpg",
+        "metrics": {
+            "uciqe": 0.6649,
+            "uiqm": 0.0528,
+            "color_imbalance": 0.2254,
+            "brightness": 99.4,
+            "laplacian_var": 116.11
+        }
+    },
+    {
+        "image_name": "005187.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/005187.jpg",
+        "metrics": {
+            "uciqe": 0.5904,
+            "uiqm": 0.1793,
+            "color_imbalance": 0.4096,
+            "brightness": 168.84,
+            "laplacian_var": 349.78
+        }
+    },
+    {
+        "image_name": "005128.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/005128.jpg",
+        "metrics": {
+            "uciqe": 0.5475,
+            "uiqm": 0.0412,
+            "color_imbalance": 0.1666,
+            "brightness": 87.2,
+            "laplacian_var": 81.5
+        }
+    },
+    {
+        "image_name": "005100.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/005100.jpg",
+        "metrics": {
+            "uciqe": 0.6205,
+            "uiqm": 0.0174,
+            "color_imbalance": 0.5807,
+            "brightness": 56.16,
+            "laplacian_var": 75.18
+        }
+    },
+    {
+        "image_name": "005323.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/005323.jpg",
+        "metrics": {
+            "uciqe": 0.6417,
+            "uiqm": 0.0117,
+            "color_imbalance": 0.9479,
+            "brightness": 70.31,
+            "laplacian_var": 291.27
+        }
+    },
+    {
+        "image_name": "005309.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/005309.jpg",
+        "metrics": {
+            "uciqe": 0.7066,
+            "uiqm": 0.1578,
+            "color_imbalance": 0.0834,
+            "brightness": 106.59,
+            "laplacian_var": 1851.19
+        }
+    },
+    {
+        "image_name": "005480.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/005480.jpg",
+        "metrics": {
+            "uciqe": 0.5293,
+            "uiqm": 0.0123,
+            "color_imbalance": 0.483,
+            "brightness": 102.75,
+            "laplacian_var": 112.86
+        }
+    },
+    {
+        "image_name": "005330.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/005330.jpg",
+        "metrics": {
+            "uciqe": 0.6038,
+            "uiqm": 0.0827,
+            "color_imbalance": 0.9559,
+            "brightness": 105.33,
+            "laplacian_var": 77.18
+        }
+    },
+    {
+        "image_name": "005390.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/005390.jpg",
+        "metrics": {
+            "uciqe": 0.6298,
+            "uiqm": 0.249,
+            "color_imbalance": 0.361,
+            "brightness": 118.23,
+            "laplacian_var": 2750.86
+        }
+    },
+    {
+        "image_name": "005749.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/005749.jpg",
+        "metrics": {
+            "uciqe": 0.6508,
+            "uiqm": 0.1947,
+            "color_imbalance": 0.2372,
+            "brightness": 104.45,
+            "laplacian_var": 4997.15
+        }
+    },
+    {
+        "image_name": "005793.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/005793.jpg",
+        "metrics": {
+            "uciqe": 0.5554,
+            "uiqm": 0.0381,
+            "color_imbalance": 0.57,
+            "brightness": 93.1,
+            "laplacian_var": 347.09
+        }
+    },
+    {
+        "image_name": "005916.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/005916.jpg",
+        "metrics": {
+            "uciqe": 0.5796,
+            "uiqm": 0.0281,
+            "color_imbalance": 0.2183,
+            "brightness": 108.7,
+            "laplacian_var": 467.09
+        }
+    },
+    {
+        "image_name": "005849.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/005849.jpg",
+        "metrics": {
+            "uciqe": 0.5698,
+            "uiqm": 0.0085,
+            "color_imbalance": 0.9641,
+            "brightness": 59.44,
+            "laplacian_var": 537.41
+        }
+    },
+    {
+        "image_name": "006348.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006348.jpg",
+        "metrics": {
+            "uciqe": 0.6525,
+            "uiqm": 0.1823,
+            "color_imbalance": 1.1426,
+            "brightness": 97.23,
+            "laplacian_var": 2022.27
+        }
+    },
+    {
+        "image_name": "006248.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006248.jpg",
+        "metrics": {
+            "uciqe": 0.671,
+            "uiqm": 0.0193,
+            "color_imbalance": 1.5927,
+            "brightness": 73.29,
+            "laplacian_var": 190.13
+        }
+    },
+    {
+        "image_name": "006353.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006353.jpg",
+        "metrics": {
+            "uciqe": 0.6393,
+            "uiqm": 0.1152,
+            "color_imbalance": 1.1448,
+            "brightness": 97.32,
+            "laplacian_var": 1541.59
+        }
+    },
+    {
+        "image_name": "006350.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006350.jpg",
+        "metrics": {
+            "uciqe": 0.6163,
+            "uiqm": 0.1139,
+            "color_imbalance": 0.2763,
+            "brightness": 123.85,
+            "laplacian_var": 876.51
+        }
+    },
+    {
+        "image_name": "005994.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/005994.jpg",
+        "metrics": {
+            "uciqe": 0.6181,
+            "uiqm": 0.0365,
+            "color_imbalance": 0.5637,
+            "brightness": 109.86,
+            "laplacian_var": 249.49
+        }
+    },
+    {
+        "image_name": "006400.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006400.jpg",
+        "metrics": {
+            "uciqe": 0.5993,
+            "uiqm": 0.1006,
+            "color_imbalance": 0.612,
+            "brightness": 108.02,
+            "laplacian_var": 274.23
+        }
+    },
+    {
+        "image_name": "006420.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006420.jpg",
+        "metrics": {
+            "uciqe": 0.6147,
+            "uiqm": 0.1178,
+            "color_imbalance": 1.1799,
+            "brightness": 59.36,
+            "laplacian_var": 3087.2
+        }
+    },
+    {
+        "image_name": "006401.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006401.jpg",
+        "metrics": {
+            "uciqe": 0.6594,
+            "uiqm": 0.2937,
+            "color_imbalance": 0.4272,
+            "brightness": 132.42,
+            "laplacian_var": 664.63
+        }
+    },
+    {
+        "image_name": "006446.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006446.jpg",
+        "metrics": {
+            "uciqe": 0.6318,
+            "uiqm": 0.0243,
+            "color_imbalance": 2.1222,
+            "brightness": 49.62,
+            "laplacian_var": 92.93
+        }
+    },
+    {
+        "image_name": "006438.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006438.jpg",
+        "metrics": {
+            "uciqe": 0.6155,
+            "uiqm": 0.026,
+            "color_imbalance": 0.9516,
+            "brightness": 107.86,
+            "laplacian_var": 200.27
+        }
+    },
+    {
+        "image_name": "006504.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006504.jpg",
+        "metrics": {
+            "uciqe": 0.5811,
+            "uiqm": 0.0412,
+            "color_imbalance": 0.4136,
+            "brightness": 121.22,
+            "laplacian_var": 575.71
+        }
+    },
+    {
+        "image_name": "006627.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006627.jpg",
+        "metrics": {
+            "uciqe": 0.6117,
+            "uiqm": 0.0044,
+            "color_imbalance": 0.9656,
+            "brightness": 77.29,
+            "laplacian_var": 653.02
+        }
+    },
+    {
+        "image_name": "006647.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006647.jpg",
+        "metrics": {
+            "uciqe": 0.5621,
+            "uiqm": 0.051,
+            "color_imbalance": 0.1034,
+            "brightness": 96.7,
+            "laplacian_var": 233.97
+        }
+    },
+    {
+        "image_name": "006690.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006690.jpg",
+        "metrics": {
+            "uciqe": 0.4535,
+            "uiqm": 0.0414,
+            "color_imbalance": 0.6579,
+            "brightness": 147.22,
+            "laplacian_var": 425.77
+        }
+    },
+    {
+        "image_name": "006700.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006700.jpg",
+        "metrics": {
+            "uciqe": 0.6692,
+            "uiqm": 0.0312,
+            "color_imbalance": 1.2635,
+            "brightness": 63.64,
+            "laplacian_var": 141.83
+        }
+    },
+    {
+        "image_name": "006712.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006712.jpg",
+        "metrics": {
+            "uciqe": 0.6905,
+            "uiqm": 0.0115,
+            "color_imbalance": 0.7326,
+            "brightness": 72.23,
+            "laplacian_var": 965.9
+        }
+    },
+    {
+        "image_name": "006396.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006396.jpg",
+        "metrics": {
+            "uciqe": 0.6493,
+            "uiqm": 0.1084,
+            "color_imbalance": 0.7168,
+            "brightness": 127.17,
+            "laplacian_var": 1766.79
+        }
+    },
+    {
+        "image_name": "006794.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006794.jpg",
+        "metrics": {
+            "uciqe": 0.6221,
+            "uiqm": 0.0149,
+            "color_imbalance": 0.6575,
+            "brightness": 133.29,
+            "laplacian_var": 1114.55
+        }
+    },
+    {
+        "image_name": "006845.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006845.jpg",
+        "metrics": {
+            "uciqe": 0.6556,
+            "uiqm": 0.1016,
+            "color_imbalance": 0.1476,
+            "brightness": 128.25,
+            "laplacian_var": 1692.52
+        }
+    },
+    {
+        "image_name": "006920.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006920.jpg",
+        "metrics": {
+            "uciqe": 0.6046,
+            "uiqm": 0.0709,
+            "color_imbalance": 1.1954,
+            "brightness": 101.71,
+            "laplacian_var": 1109.62
+        }
+    },
+    {
+        "image_name": "006865.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006865.jpg",
+        "metrics": {
+            "uciqe": 0.6463,
+            "uiqm": 0.0265,
+            "color_imbalance": 0.2065,
+            "brightness": 125.33,
+            "laplacian_var": 306.11
+        }
+    },
+    {
+        "image_name": "006924.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006924.jpg",
+        "metrics": {
+            "uciqe": 0.5949,
+            "uiqm": 0.0156,
+            "color_imbalance": 0.2411,
+            "brightness": 119.57,
+            "laplacian_var": 867.08
+        }
+    },
+    {
+        "image_name": "006973.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006973.jpg",
+        "metrics": {
+            "uciqe": 0.5737,
+            "uiqm": 0.083,
+            "color_imbalance": 1.5962,
+            "brightness": 82.78,
+            "laplacian_var": 680.24
+        }
+    },
+    {
+        "image_name": "007806.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/007806.jpg",
+        "metrics": {
+            "uciqe": 0.6479,
+            "uiqm": 0.0135,
+            "color_imbalance": 0.4495,
+            "brightness": 73.24,
+            "laplacian_var": 1066.82
+        }
+    },
+    {
+        "image_name": "007315.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/007315.jpg",
+        "metrics": {
+            "uciqe": 0.5559,
+            "uiqm": 0.0449,
+            "color_imbalance": 0.717,
+            "brightness": 125.44,
+            "laplacian_var": 71.57
+        }
+    },
+    {
+        "image_name": "007807.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/007807.jpg",
+        "metrics": {
+            "uciqe": 0.6502,
+            "uiqm": 0.0126,
+            "color_imbalance": 0.4502,
+            "brightness": 72.45,
+            "laplacian_var": 1070.03
+        }
+    },
+    {
+        "image_name": "007847.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/007847.jpg",
+        "metrics": {
+            "uciqe": 0.6298,
+            "uiqm": 0.0437,
+            "color_imbalance": 0.6913,
+            "brightness": 126.42,
+            "laplacian_var": 154.71
+        }
+    },
+    {
+        "image_name": "008321.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/008321.jpg",
+        "metrics": {
+            "uciqe": 0.6638,
+            "uiqm": 0.0423,
+            "color_imbalance": 0.0873,
+            "brightness": 144.69,
+            "laplacian_var": 1531.39
+        }
+    },
+    {
+        "image_name": "008498.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/008498.jpg",
+        "metrics": {
+            "uciqe": 0.5997,
+            "uiqm": 0.0158,
+            "color_imbalance": 0.6868,
+            "brightness": 84.58,
+            "laplacian_var": 89.84
+        }
+    },
+    {
+        "image_name": "008825.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/008825.jpg",
+        "metrics": {
+            "uciqe": 0.4707,
+            "uiqm": 0.1231,
+            "color_imbalance": 0.6014,
+            "brightness": 195.54,
+            "laplacian_var": 831.75
+        }
+    },
+    {
+        "image_name": "008964.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/008964.jpg",
+        "metrics": {
+            "uciqe": 0.5778,
+            "uiqm": 0.1359,
+            "color_imbalance": 0.5712,
+            "brightness": 119.11,
+            "laplacian_var": 2219.7
+        }
+    },
+    {
+        "image_name": "008572.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/008572.jpg",
+        "metrics": {
+            "uciqe": 0.6477,
+            "uiqm": 0.0473,
+            "color_imbalance": 0.4146,
+            "brightness": 83.93,
+            "laplacian_var": 502.83
+        }
+    },
+    {
+        "image_name": "009334.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/009334.jpg",
+        "metrics": {
+            "uciqe": 0.6177,
+            "uiqm": 0.0378,
+            "color_imbalance": 0.3008,
+            "brightness": 130.89,
+            "laplacian_var": 2587.13
+        }
+    },
+    {
+        "image_name": "009497.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/009497.jpg",
+        "metrics": {
+            "uciqe": 0.5402,
+            "uiqm": 0.0027,
+            "color_imbalance": 0.6545,
+            "brightness": 96.14,
+            "laplacian_var": 99.67
+        }
+    },
+    {
+        "image_name": "009659.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/009659.jpg",
+        "metrics": {
+            "uciqe": 0.5651,
+            "uiqm": 0.0425,
+            "color_imbalance": 0.8991,
+            "brightness": 114.93,
+            "laplacian_var": 127.3
+        }
+    },
+    {
+        "image_name": "010383.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/010383.jpg",
+        "metrics": {
+            "uciqe": 0.5926,
+            "uiqm": 0.0514,
+            "color_imbalance": 0.7478,
+            "brightness": 110.84,
+            "laplacian_var": 898.02
+        }
+    },
+    {
+        "image_name": "013331.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/013331.jpg",
+        "metrics": {
+            "uciqe": 0.5604,
+            "uiqm": 0.0036,
+            "color_imbalance": 0.5185,
+            "brightness": 97.48,
+            "laplacian_var": 102.92
+        }
+    },
+    {
+        "image_name": "006522.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006522.jpg",
+        "metrics": {
+            "uciqe": 0.6703,
+            "uiqm": 0.0303,
+            "color_imbalance": 0.3768,
+            "brightness": 106.63,
+            "laplacian_var": 1782.72
+        }
+    },
+    {
+        "image_name": "000082.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/000082.jpg",
+        "metrics": {
+            "uciqe": 0.4709,
+            "uiqm": 0.0535,
+            "color_imbalance": 0.8622,
+            "brightness": 133.2,
+            "laplacian_var": 2493.7
+        }
+    },
+    {
+        "image_name": "006641.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/006641.jpg",
+        "metrics": {
+            "uciqe": 0.6416,
+            "uiqm": 0.1806,
+            "color_imbalance": 1.2607,
+            "brightness": 98.15,
+            "laplacian_var": 734.82
+        }
+    },
+    {
+        "image_name": "009332.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/009332.jpg",
+        "metrics": {
+            "uciqe": 0.6372,
+            "uiqm": 0.0246,
+            "color_imbalance": 0.372,
+            "brightness": 100.49,
+            "laplacian_var": 2500.9
+        }
+    },
+    {
+        "image_name": "007570.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/light/007570.jpg",
+        "metrics": {
+            "uciqe": 0.5129,
+            "uiqm": 0.0174,
+            "color_imbalance": 0.8955,
+            "brightness": 126.11,
+            "laplacian_var": 155.02
+        }
+    }
+]

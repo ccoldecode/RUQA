@@ -1,0 +1,268 @@
+{
+  "images": [
+    {
+      "id": 44,
+      "file_name": "000001.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 91,
+      "file_name": "000004.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 3,
+      "file_name": "000005.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 34,
+      "file_name": "000012.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 54,
+      "file_name": "000035.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 80,
+      "file_name": "000043.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 9,
+      "file_name": "000048.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 70,
+      "file_name": "000050.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 40,
+      "file_name": "000076.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 24,
+      "file_name": "000092.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 90,
+      "file_name": "000288.jpg",
+      "width": 3840,
+      "height": 2160
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 44,
+      "category_id": 4,
+      "bbox": [
+        480.0,
+        162.0,
+        288.0,
+        162.0
+      ],
+      "area": 46656.0,
+      "iscrowd": 0,
+      "score": 0.95
+    },
+    {
+      "id": 2,
+      "image_id": 91,
+      "category_id": 2,
+      "bbox": [
+        576.0,
+        540.0,
+        288.0,
+        216.0
+      ],
+      "area": 62208.0,
+      "iscrowd": 0,
+      "score": 0.95
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 4,
+      "bbox": [
+        576.0,
+        216.0,
+        384.0,
+        216.0
+      ],
+      "area": 82944.0,
+      "iscrowd": 0,
+      "score": 0.95
+    },
+    {
+      "id": 4,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        864.0,
+        486.0,
+        192.0,
+        108.0
+      ],
+      "area": 20736.0,
+      "iscrowd": 0,
+      "score": 0.95
+    },
+    {
+      "id": 5,
+      "image_id": 54,
+      "category_id": 2,
+      "bbox": [
+        768.0,
+        540.0,
+        192.0,
+        108.0
+      ],
+      "area": 20736.0,
+      "iscrowd": 0,
+      "score": 0.95
+    },
+    {
+      "id": 6,
+      "image_id": 80,
+      "category_id": 4,
+      "bbox": [
+        1632.0,
+        378.0,
+        288.0,
+        162.0
+      ],
+      "area": 46656.0,
+      "iscrowd": 0,
+      "score": 0.95
+    },
+    {
+      "id": 7,
+      "image_id": 9,
+      "category_id": 2,
+      "bbox": [
+        576.0,
+        378.0,
+        288.0,
+        162.0
+      ],
+      "area": 46656.0,
+      "iscrowd": 0,
+      "score": 0.95
+    },
+    {
+      "id": 8,
+      "image_id": 70,
+      "category_id": 4,
+      "bbox": [
+        576.0,
+        216.0,
+        384.0,
+        216.0
+      ],
+      "area": 82944.0,
+      "iscrowd": 0,
+      "score": 0.95
+    },
+    {
+      "id": 9,
+      "image_id": 40,
+      "category_id": 5,
+      "bbox": [
+        864.0,
+        324.0,
+        288.0,
+        162.0
+      ],
+      "area": 46656.0,
+      "iscrowd": 0,
+      "score": 0.95
+    },
+    {
+      "id": 10,
+      "image_id": 24,
+      "category_id": 4,
+      "bbox": [
+        576.0,
+        540.0,
+        192.0,
+        108.0
+      ],
+      "area": 20736.0,
+      "iscrowd": 0,
+      "score": 0.95
+    },
+    {
+      "id": 11,
+      "image_id": 90,
+      "category_id": 2,
+      "bbox": [
+        2304.0,
+        324.0,
+        576.0,
+        432.0
+      ],
+      "area": 248832.0,
+      "iscrowd": 0,
+      "score": 0.95
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "holothurian"
+    },
+    {
+      "id": 2,
+      "name": "echinus"
+    },
+    {
+      "id": 3,
+      "name": "scallop"
+    },
+    {
+      "id": 4,
+      "name": "starfish"
+    },
+    {
+      "id": 5,
+      "name": "fish"
+    },
+    {
+      "id": 6,
+      "name": "corals"
+    },
+    {
+      "id": 7,
+      "name": "diver"
+    },
+    {
+      "id": 8,
+      "name": "cuttlefish"
+    },
+    {
+      "id": 9,
+      "name": "turtle"
+    },
+    {
+      "id": 10,
+      "name": "jellyfish"
+    }
+  ]
+}

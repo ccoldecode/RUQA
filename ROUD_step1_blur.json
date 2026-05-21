@@ -1,0 +1,1102 @@
+[
+    {
+        "image_name": "000937.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000937.jpg",
+        "metrics": {
+            "uciqe": 0.3455,
+            "uiqm": 0.0492,
+            "color_imbalance": 0.9802,
+            "brightness": 146.84,
+            "laplacian_var": 9.06
+        }
+    },
+    {
+        "image_name": "000932.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000932.jpg",
+        "metrics": {
+            "uciqe": 0.4145,
+            "uiqm": 0.0489,
+            "color_imbalance": 0.9626,
+            "brightness": 137.02,
+            "laplacian_var": 11.8
+        }
+    },
+    {
+        "image_name": "000936.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000936.jpg",
+        "metrics": {
+            "uciqe": 0.4035,
+            "uiqm": 0.0489,
+            "color_imbalance": 1.004,
+            "brightness": 145.82,
+            "laplacian_var": 15.59
+        }
+    },
+    {
+        "image_name": "000962.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000962.jpg",
+        "metrics": {
+            "uciqe": 0.5124,
+            "uiqm": 0.0546,
+            "color_imbalance": 0.9478,
+            "brightness": 126.77,
+            "laplacian_var": 97.04
+        }
+    },
+    {
+        "image_name": "000947.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000947.jpg",
+        "metrics": {
+            "uciqe": 0.4718,
+            "uiqm": 0.0591,
+            "color_imbalance": 1.0178,
+            "brightness": 132.26,
+            "laplacian_var": 51.09
+        }
+    },
+    {
+        "image_name": "000934.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000934.jpg",
+        "metrics": {
+            "uciqe": 0.4078,
+            "uiqm": 0.0559,
+            "color_imbalance": 0.9584,
+            "brightness": 141.24,
+            "laplacian_var": 18.0
+        }
+    },
+    {
+        "image_name": "000989.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000989.jpg",
+        "metrics": {
+            "uciqe": 0.3453,
+            "uiqm": 0.0168,
+            "color_imbalance": 1.1449,
+            "brightness": 126.95,
+            "laplacian_var": 45.46
+        }
+    },
+    {
+        "image_name": "000970.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000970.jpg",
+        "metrics": {
+            "uciqe": 0.4378,
+            "uiqm": 0.0467,
+            "color_imbalance": 0.9434,
+            "brightness": 143.88,
+            "laplacian_var": 26.73
+        }
+    },
+    {
+        "image_name": "000050.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000050.jpg",
+        "metrics": {
+            "uciqe": 0.4305,
+            "uiqm": 0.0047,
+            "color_imbalance": 0.8785,
+            "brightness": 99.92,
+            "laplacian_var": 63.48
+        }
+    },
+    {
+        "image_name": "000012.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000012.jpg",
+        "metrics": {
+            "uciqe": 0.3429,
+            "uiqm": 0.0097,
+            "color_imbalance": 0.4865,
+            "brightness": 131.59,
+            "laplacian_var": 11.07
+        }
+    },
+    {
+        "image_name": "000043.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000043.jpg",
+        "metrics": {
+            "uciqe": 0.4012,
+            "uiqm": 0.0119,
+            "color_imbalance": 0.8396,
+            "brightness": 117.52,
+            "laplacian_var": 44.19
+        }
+    },
+    {
+        "image_name": "000979.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000979.jpg",
+        "metrics": {
+            "uciqe": 0.3124,
+            "uiqm": 0.0212,
+            "color_imbalance": 1.3522,
+            "brightness": 128.01,
+            "laplacian_var": 34.44
+        }
+    },
+    {
+        "image_name": "001039.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001039.jpg",
+        "metrics": {
+            "uciqe": 0.3487,
+            "uiqm": 0.0219,
+            "color_imbalance": 1.2766,
+            "brightness": 130.12,
+            "laplacian_var": 84.38
+        }
+    },
+    {
+        "image_name": "001038.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001038.jpg",
+        "metrics": {
+            "uciqe": 0.3587,
+            "uiqm": 0.0199,
+            "color_imbalance": 1.2733,
+            "brightness": 126.44,
+            "laplacian_var": 184.63
+        }
+    },
+    {
+        "image_name": "000076.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000076.jpg",
+        "metrics": {
+            "uciqe": 0.4054,
+            "uiqm": 0.0116,
+            "color_imbalance": 0.4147,
+            "brightness": 130.29,
+            "laplacian_var": 43.45
+        }
+    },
+    {
+        "image_name": "000048.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000048.jpg",
+        "metrics": {
+            "uciqe": 0.422,
+            "uiqm": 0.0156,
+            "color_imbalance": 0.9489,
+            "brightness": 112.89,
+            "laplacian_var": 50.1
+        }
+    },
+    {
+        "image_name": "001100.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001100.jpg",
+        "metrics": {
+            "uciqe": 0.3507,
+            "uiqm": 0.0191,
+            "color_imbalance": 1.2215,
+            "brightness": 125.3,
+            "laplacian_var": 119.76
+        }
+    },
+    {
+        "image_name": "001195.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001195.jpg",
+        "metrics": {
+            "uciqe": 0.3544,
+            "uiqm": 0.041,
+            "color_imbalance": 1.7529,
+            "brightness": 115.71,
+            "laplacian_var": 4.06
+        }
+    },
+    {
+        "image_name": "001132.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001132.jpg",
+        "metrics": {
+            "uciqe": 0.3437,
+            "uiqm": 0.0254,
+            "color_imbalance": 1.2242,
+            "brightness": 133.03,
+            "laplacian_var": 31.62
+        }
+    },
+    {
+        "image_name": "001102.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001102.jpg",
+        "metrics": {
+            "uciqe": 0.3416,
+            "uiqm": 0.0186,
+            "color_imbalance": 1.2283,
+            "brightness": 125.03,
+            "laplacian_var": 67.48
+        }
+    },
+    {
+        "image_name": "001189.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001189.jpg",
+        "metrics": {
+            "uciqe": 0.3145,
+            "uiqm": 0.0232,
+            "color_imbalance": 1.2525,
+            "brightness": 133.6,
+            "laplacian_var": 26.09
+        }
+    },
+    {
+        "image_name": "001161.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001161.jpg",
+        "metrics": {
+            "uciqe": 0.3376,
+            "uiqm": 0.0229,
+            "color_imbalance": 1.2542,
+            "brightness": 129.19,
+            "laplacian_var": 14.76
+        }
+    },
+    {
+        "image_name": "001135.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001135.jpg",
+        "metrics": {
+            "uciqe": 0.4047,
+            "uiqm": 0.0245,
+            "color_imbalance": 1.2792,
+            "brightness": 133.38,
+            "laplacian_var": 24.91
+        }
+    },
+    {
+        "image_name": "001166.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001166.jpg",
+        "metrics": {
+            "uciqe": 0.3556,
+            "uiqm": 0.0191,
+            "color_imbalance": 1.2627,
+            "brightness": 127.3,
+            "laplacian_var": 17.16
+        }
+    },
+    {
+        "image_name": "001088.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001088.jpg",
+        "metrics": {
+            "uciqe": 0.3769,
+            "uiqm": 0.0222,
+            "color_imbalance": 1.3323,
+            "brightness": 128.01,
+            "laplacian_var": 42.53
+        }
+    },
+    {
+        "image_name": "001196.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001196.jpg",
+        "metrics": {
+            "uciqe": 0.3496,
+            "uiqm": 0.0405,
+            "color_imbalance": 1.7536,
+            "brightness": 117.58,
+            "laplacian_var": 3.7
+        }
+    },
+    {
+        "image_name": "001191.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001191.jpg",
+        "metrics": {
+            "uciqe": 0.3452,
+            "uiqm": 0.0212,
+            "color_imbalance": 1.2671,
+            "brightness": 125.7,
+            "laplacian_var": 43.81
+        }
+    },
+    {
+        "image_name": "001218.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001218.jpg",
+        "metrics": {
+            "uciqe": 0.405,
+            "uiqm": 0.0662,
+            "color_imbalance": 1.6525,
+            "brightness": 144.17,
+            "laplacian_var": 11.68
+        }
+    },
+    {
+        "image_name": "001197.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001197.jpg",
+        "metrics": {
+            "uciqe": 0.3337,
+            "uiqm": 0.0508,
+            "color_imbalance": 1.7284,
+            "brightness": 125.59,
+            "laplacian_var": 4.45
+        }
+    },
+    {
+        "image_name": "001235.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001235.jpg",
+        "metrics": {
+            "uciqe": 0.3152,
+            "uiqm": 0.0443,
+            "color_imbalance": 1.3193,
+            "brightness": 128.2,
+            "laplacian_var": 8.05
+        }
+    },
+    {
+        "image_name": "001233.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001233.jpg",
+        "metrics": {
+            "uciqe": 0.3807,
+            "uiqm": 0.0381,
+            "color_imbalance": 1.3312,
+            "brightness": 117.57,
+            "laplacian_var": 13.13
+        }
+    },
+    {
+        "image_name": "001263.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001263.jpg",
+        "metrics": {
+            "uciqe": 0.3597,
+            "uiqm": 0.0634,
+            "color_imbalance": 1.8937,
+            "brightness": 133.89,
+            "laplacian_var": 4.09
+        }
+    },
+    {
+        "image_name": "001258.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001258.jpg",
+        "metrics": {
+            "uciqe": 0.3344,
+            "uiqm": 0.0495,
+            "color_imbalance": 1.8406,
+            "brightness": 120.08,
+            "laplacian_var": 8.85
+        }
+    },
+    {
+        "image_name": "001273.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/001273.jpg",
+        "metrics": {
+            "uciqe": 0.3648,
+            "uiqm": 0.0486,
+            "color_imbalance": 1.8675,
+            "brightness": 116.83,
+            "laplacian_var": 6.83
+        }
+    },
+    {
+        "image_name": "004432.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/004432.jpg",
+        "metrics": {
+            "uciqe": 0.6263,
+            "uiqm": 0.0445,
+            "color_imbalance": 0.0878,
+            "brightness": 135.69,
+            "laplacian_var": 69.84
+        }
+    },
+    {
+        "image_name": "004530.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/004530.jpg",
+        "metrics": {
+            "uciqe": 0.5705,
+            "uiqm": 0.0179,
+            "color_imbalance": 0.6407,
+            "brightness": 116.42,
+            "laplacian_var": 96.78
+        }
+    },
+    {
+        "image_name": "004590.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/004590.jpg",
+        "metrics": {
+            "uciqe": 0.5357,
+            "uiqm": 0.0199,
+            "color_imbalance": 1.3417,
+            "brightness": 86.57,
+            "laplacian_var": 136.32
+        }
+    },
+    {
+        "image_name": "004711.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/004711.jpg",
+        "metrics": {
+            "uciqe": 0.623,
+            "uiqm": 0.0533,
+            "color_imbalance": 0.0748,
+            "brightness": 127.56,
+            "laplacian_var": 100.29
+        }
+    },
+    {
+        "image_name": "004632.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/004632.jpg",
+        "metrics": {
+            "uciqe": 0.4278,
+            "uiqm": 0.0122,
+            "color_imbalance": 1.1814,
+            "brightness": 101.36,
+            "laplacian_var": 38.77
+        }
+    },
+    {
+        "image_name": "004758.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/004758.jpg",
+        "metrics": {
+            "uciqe": 0.6744,
+            "uiqm": 0.3153,
+            "color_imbalance": 0.7561,
+            "brightness": 82.53,
+            "laplacian_var": 1779.77
+        }
+    },
+    {
+        "image_name": "005144.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005144.jpg",
+        "metrics": {
+            "uciqe": 0.4107,
+            "uiqm": 0.0457,
+            "color_imbalance": 1.0409,
+            "brightness": 125.32,
+            "laplacian_var": 8.85
+        }
+    },
+    {
+        "image_name": "005321.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005321.jpg",
+        "metrics": {
+            "uciqe": 0.5771,
+            "uiqm": 0.0339,
+            "color_imbalance": 0.9024,
+            "brightness": 99.14,
+            "laplacian_var": 11.91
+        }
+    },
+    {
+        "image_name": "005371.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005371.jpg",
+        "metrics": {
+            "uciqe": 0.4052,
+            "uiqm": 0.0275,
+            "color_imbalance": 1.0473,
+            "brightness": 128.32,
+            "laplacian_var": 126.82
+        }
+    },
+    {
+        "image_name": "005489.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005489.jpg",
+        "metrics": {
+            "uciqe": 0.3995,
+            "uiqm": 0.0262,
+            "color_imbalance": 0.6569,
+            "brightness": 134.81,
+            "laplacian_var": 13.73
+        }
+    },
+    {
+        "image_name": "005495.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005495.jpg",
+        "metrics": {
+            "uciqe": 0.4105,
+            "uiqm": 0.0163,
+            "color_imbalance": 0.5544,
+            "brightness": 137.48,
+            "laplacian_var": 42.9
+        }
+    },
+    {
+        "image_name": "005466.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005466.jpg",
+        "metrics": {
+            "uciqe": 0.4542,
+            "uiqm": 0.0241,
+            "color_imbalance": 1.3781,
+            "brightness": 89.9,
+            "laplacian_var": 50.22
+        }
+    },
+    {
+        "image_name": "005509.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005509.jpg",
+        "metrics": {
+            "uciqe": 0.3942,
+            "uiqm": 0.0483,
+            "color_imbalance": 0.3699,
+            "brightness": 142.5,
+            "laplacian_var": 3.19
+        }
+    },
+    {
+        "image_name": "005513.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005513.jpg",
+        "metrics": {
+            "uciqe": 0.3892,
+            "uiqm": 0.0285,
+            "color_imbalance": 0.5869,
+            "brightness": 137.31,
+            "laplacian_var": 10.34
+        }
+    },
+    {
+        "image_name": "005496.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005496.jpg",
+        "metrics": {
+            "uciqe": 0.4005,
+            "uiqm": 0.0343,
+            "color_imbalance": 0.3675,
+            "brightness": 138.26,
+            "laplacian_var": 79.85
+        }
+    },
+    {
+        "image_name": "005519.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005519.jpg",
+        "metrics": {
+            "uciqe": 0.4325,
+            "uiqm": 0.007,
+            "color_imbalance": 0.7492,
+            "brightness": 122.77,
+            "laplacian_var": 15.54
+        }
+    },
+    {
+        "image_name": "005520.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005520.jpg",
+        "metrics": {
+            "uciqe": 0.452,
+            "uiqm": 0.0196,
+            "color_imbalance": 0.4782,
+            "brightness": 121.42,
+            "laplacian_var": 96.63
+        }
+    },
+    {
+        "image_name": "005887.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005887.jpg",
+        "metrics": {
+            "uciqe": 0.6109,
+            "uiqm": 0.0549,
+            "color_imbalance": 0.0699,
+            "brightness": 145.78,
+            "laplacian_var": 85.73
+        }
+    },
+    {
+        "image_name": "000035.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000035.jpg",
+        "metrics": {
+            "uciqe": 0.4259,
+            "uiqm": 0.0025,
+            "color_imbalance": 0.2289,
+            "brightness": 94.82,
+            "laplacian_var": 49.56
+        }
+    },
+    {
+        "image_name": "012390.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/012390.jpg",
+        "metrics": {
+            "uciqe": 0.5145,
+            "uiqm": 0.0073,
+            "color_imbalance": 0.6389,
+            "brightness": 95.04,
+            "laplacian_var": 24.23
+        }
+    },
+    {
+        "image_name": "000092.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000092.jpg",
+        "metrics": {
+            "uciqe": 0.5012,
+            "uiqm": 0.0202,
+            "color_imbalance": 0.9847,
+            "brightness": 136.72,
+            "laplacian_var": 95.18
+        }
+    },
+    {
+        "image_name": "000005.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000005.jpg",
+        "metrics": {
+            "uciqe": 0.3958,
+            "uiqm": 0.0125,
+            "color_imbalance": 0.2617,
+            "brightness": 122.85,
+            "laplacian_var": 116.21
+        }
+    },
+    {
+        "image_name": "012769.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/012769.jpg",
+        "metrics": {
+            "uciqe": 0.4088,
+            "uiqm": 0.0161,
+            "color_imbalance": 0.8574,
+            "brightness": 117.8,
+            "laplacian_var": 4.69
+        }
+    },
+    {
+        "image_name": "004943.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/004943.jpg",
+        "metrics": {
+            "uciqe": 0.41,
+            "uiqm": 0.0184,
+            "color_imbalance": 2.0209,
+            "brightness": 83.58,
+            "laplacian_var": 119.38
+        }
+    },
+    {
+        "image_name": "005369.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005369.jpg",
+        "metrics": {
+            "uciqe": 0.4957,
+            "uiqm": 0.0193,
+            "color_imbalance": 0.7023,
+            "brightness": 129.92,
+            "laplacian_var": 112.47
+        }
+    },
+    {
+        "image_name": "005409.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005409.jpg",
+        "metrics": {
+            "uciqe": 0.5901,
+            "uiqm": 0.0519,
+            "color_imbalance": 0.1019,
+            "brightness": 144.49,
+            "laplacian_var": 158.8
+        }
+    },
+    {
+        "image_name": "000004.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000004.jpg",
+        "metrics": {
+            "uciqe": 0.4322,
+            "uiqm": 0.0099,
+            "color_imbalance": 0.1789,
+            "brightness": 140.93,
+            "laplacian_var": 143.2
+        }
+    },
+    {
+        "image_name": "005207.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005207.jpg",
+        "metrics": {
+            "uciqe": 0.4702,
+            "uiqm": 0.0259,
+            "color_imbalance": 0.9112,
+            "brightness": 111.27,
+            "laplacian_var": 142.77
+        }
+    },
+    {
+        "image_name": "005724.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005724.jpg",
+        "metrics": {
+            "uciqe": 0.5099,
+            "uiqm": 0.0128,
+            "color_imbalance": 1.7294,
+            "brightness": 93.5,
+            "laplacian_var": 102.2
+        }
+    },
+    {
+        "image_name": "000971.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000971.jpg",
+        "metrics": {
+            "uciqe": 0.3585,
+            "uiqm": 0.0233,
+            "color_imbalance": 1.2536,
+            "brightness": 129.98,
+            "laplacian_var": 80.14
+        }
+    },
+    {
+        "image_name": "000288.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000288.jpg",
+        "metrics": {
+            "uciqe": 0.4173,
+            "uiqm": 0.0054,
+            "color_imbalance": 1.0825,
+            "brightness": 100.1,
+            "laplacian_var": 42.36
+        }
+    },
+    {
+        "image_name": "000358.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000358.jpg",
+        "metrics": {
+            "uciqe": 0.4637,
+            "uiqm": 0.0085,
+            "color_imbalance": 1.237,
+            "brightness": 105.67,
+            "laplacian_var": 48.35
+        }
+    },
+    {
+        "image_name": "012364.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/012364.jpg",
+        "metrics": {
+            "uciqe": 0.5642,
+            "uiqm": 0.0744,
+            "color_imbalance": 0.7369,
+            "brightness": 114.08,
+            "laplacian_var": 124.1
+        }
+    },
+    {
+        "image_name": "004303.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/004303.jpg",
+        "metrics": {
+            "uciqe": 0.6861,
+            "uiqm": 0.0908,
+            "color_imbalance": 0.7603,
+            "brightness": 104.99,
+            "laplacian_var": 618.9
+        }
+    },
+    {
+        "image_name": "012172.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/012172.jpg",
+        "metrics": {
+            "uciqe": 0.4687,
+            "uiqm": 0.0272,
+            "color_imbalance": 0.6113,
+            "brightness": 133.64,
+            "laplacian_var": 163.39
+        }
+    },
+    {
+        "image_name": "013210.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/013210.jpg",
+        "metrics": {
+            "uciqe": 0.4156,
+            "uiqm": 0.0002,
+            "color_imbalance": 2.3222,
+            "brightness": 47.26,
+            "laplacian_var": 8.17
+        }
+    },
+    {
+        "image_name": "012405.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/012405.jpg",
+        "metrics": {
+            "uciqe": 0.5428,
+            "uiqm": 0.0021,
+            "color_imbalance": 1.2976,
+            "brightness": 53.83,
+            "laplacian_var": 151.34
+        }
+    },
+    {
+        "image_name": "005543.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005543.jpg",
+        "metrics": {
+            "uciqe": 0.3924,
+            "uiqm": 0.0038,
+            "color_imbalance": 0.8503,
+            "brightness": 116.08,
+            "laplacian_var": 35.91
+        }
+    },
+    {
+        "image_name": "000376.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000376.jpg",
+        "metrics": {
+            "uciqe": 0.415,
+            "uiqm": 0.0096,
+            "color_imbalance": 1.2256,
+            "brightness": 114.67,
+            "laplacian_var": 40.52
+        }
+    },
+    {
+        "image_name": "012736.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/012736.jpg",
+        "metrics": {
+            "uciqe": 0.5346,
+            "uiqm": 0.0286,
+            "color_imbalance": 0.3071,
+            "brightness": 115.79,
+            "laplacian_var": 101.23
+        }
+    },
+    {
+        "image_name": "013022.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/013022.jpg",
+        "metrics": {
+            "uciqe": 0.5343,
+            "uiqm": 0.0003,
+            "color_imbalance": 0.4853,
+            "brightness": 91.42,
+            "laplacian_var": 34.12
+        }
+    },
+    {
+        "image_name": "013194.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/013194.jpg",
+        "metrics": {
+            "uciqe": 0.5201,
+            "uiqm": 0.0231,
+            "color_imbalance": 1.5592,
+            "brightness": 98.28,
+            "laplacian_var": 30.15
+        }
+    },
+    {
+        "image_name": "013330.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/013330.jpg",
+        "metrics": {
+            "uciqe": 0.5604,
+            "uiqm": 0.0036,
+            "color_imbalance": 0.5185,
+            "brightness": 97.48,
+            "laplacian_var": 102.92
+        }
+    },
+    {
+        "image_name": "013312.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/013312.jpg",
+        "metrics": {
+            "uciqe": 0.5008,
+            "uiqm": 0.0096,
+            "color_imbalance": 0.348,
+            "brightness": 114.44,
+            "laplacian_var": 200.86
+        }
+    },
+    {
+        "image_name": "000352.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000352.jpg",
+        "metrics": {
+            "uciqe": 0.4411,
+            "uiqm": 0.0074,
+            "color_imbalance": 1.1687,
+            "brightness": 103.16,
+            "laplacian_var": 72.97
+        }
+    },
+    {
+        "image_name": "013945.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/013945.jpg",
+        "metrics": {
+            "uciqe": 0.5624,
+            "uiqm": 0.0055,
+            "color_imbalance": 0.5403,
+            "brightness": 100.36,
+            "laplacian_var": 254.77
+        }
+    },
+    {
+        "image_name": "013854.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/013854.jpg",
+        "metrics": {
+            "uciqe": 0.539,
+            "uiqm": 0.0069,
+            "color_imbalance": 0.7751,
+            "brightness": 103.29,
+            "laplacian_var": 417.65
+        }
+    },
+    {
+        "image_name": "004684.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/004684.jpg",
+        "metrics": {
+            "uciqe": 0.6062,
+            "uiqm": 0.0254,
+            "color_imbalance": 1.4928,
+            "brightness": 94.09,
+            "laplacian_var": 754.38
+        }
+    },
+    {
+        "image_name": "004616.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/004616.jpg",
+        "metrics": {
+            "uciqe": 0.507,
+            "uiqm": 0.0175,
+            "color_imbalance": 0.6608,
+            "brightness": 107.19,
+            "laplacian_var": 76.03
+        }
+    },
+    {
+        "image_name": "004929.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/004929.jpg",
+        "metrics": {
+            "uciqe": 0.4971,
+            "uiqm": 0.0067,
+            "color_imbalance": 0.4066,
+            "brightness": 72.74,
+            "laplacian_var": 467.34
+        }
+    },
+    {
+        "image_name": "012422.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/012422.jpg",
+        "metrics": {
+            "uciqe": 0.5861,
+            "uiqm": 0.0134,
+            "color_imbalance": 0.3623,
+            "brightness": 81.8,
+            "laplacian_var": 38.62
+        }
+    },
+    {
+        "image_name": "005357.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005357.jpg",
+        "metrics": {
+            "uciqe": 0.5214,
+            "uiqm": 0.0158,
+            "color_imbalance": 1.3635,
+            "brightness": 124.46,
+            "laplacian_var": 468.11
+        }
+    },
+    {
+        "image_name": "005388.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005388.jpg",
+        "metrics": {
+            "uciqe": 0.6562,
+            "uiqm": 0.1643,
+            "color_imbalance": 0.6793,
+            "brightness": 132.04,
+            "laplacian_var": 3772.48
+        }
+    },
+    {
+        "image_name": "000463.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000463.jpg",
+        "metrics": {
+            "uciqe": 0.4801,
+            "uiqm": 0.0117,
+            "color_imbalance": 1.1051,
+            "brightness": 121.73,
+            "laplacian_var": 48.65
+        }
+    },
+    {
+        "image_name": "000001.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000001.jpg",
+        "metrics": {
+            "uciqe": 0.4233,
+            "uiqm": 0.0108,
+            "color_imbalance": 0.1942,
+            "brightness": 127.36,
+            "laplacian_var": 117.86
+        }
+    },
+    {
+        "image_name": "000461.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000461.jpg",
+        "metrics": {
+            "uciqe": 0.4776,
+            "uiqm": 0.0114,
+            "color_imbalance": 1.1143,
+            "brightness": 121.74,
+            "laplacian_var": 39.04
+        }
+    },
+    {
+        "image_name": "004554.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/004554.jpg",
+        "metrics": {
+            "uciqe": 0.5345,
+            "uiqm": 0.02,
+            "color_imbalance": 0.8145,
+            "brightness": 111.26,
+            "laplacian_var": 292.96
+        }
+    },
+    {
+        "image_name": "013601.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/013601.jpg",
+        "metrics": {
+            "uciqe": 0.6074,
+            "uiqm": 0.0171,
+            "color_imbalance": 0.219,
+            "brightness": 119.13,
+            "laplacian_var": 648.01
+        }
+    },
+    {
+        "image_name": "005704.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005704.jpg",
+        "metrics": {
+            "uciqe": 0.5101,
+            "uiqm": 0.0235,
+            "color_imbalance": 1.0147,
+            "brightness": 119.4,
+            "laplacian_var": 372.52
+        }
+    },
+    {
+        "image_name": "004600.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/004600.jpg",
+        "metrics": {
+            "uciqe": 0.5524,
+            "uiqm": 0.0075,
+            "color_imbalance": 1.5857,
+            "brightness": 79.13,
+            "laplacian_var": 132.13
+        }
+    },
+    {
+        "image_name": "005693.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/005693.jpg",
+        "metrics": {
+            "uciqe": 0.6167,
+            "uiqm": 0.0099,
+            "color_imbalance": 0.6488,
+            "brightness": 89.23,
+            "laplacian_var": 185.45
+        }
+    },
+    {
+        "image_name": "012335.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/012335.jpg",
+        "metrics": {
+            "uciqe": 0.6263,
+            "uiqm": 0.0914,
+            "color_imbalance": 0.2161,
+            "brightness": 124.84,
+            "laplacian_var": 4385.25
+        }
+    },
+    {
+        "image_name": "000807.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000807.jpg",
+        "metrics": {
+            "uciqe": 0.4736,
+            "uiqm": 0.0081,
+            "color_imbalance": 1.1564,
+            "brightness": 112.47,
+            "laplacian_var": 78.13
+        }
+    },
+    {
+        "image_name": "000811.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000811.jpg",
+        "metrics": {
+            "uciqe": 0.4819,
+            "uiqm": 0.0063,
+            "color_imbalance": 1.1421,
+            "brightness": 108.13,
+            "laplacian_var": 101.16
+        }
+    },
+    {
+        "image_name": "000734.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000734.jpg",
+        "metrics": {
+            "uciqe": 0.4707,
+            "uiqm": 0.0078,
+            "color_imbalance": 1.1537,
+            "brightness": 110.25,
+            "laplacian_var": 95.37
+        }
+    },
+    {
+        "image_name": "000731.jpg",
+        "image_path": "/root/autodl-tmp/bi/ROUD/blur/000731.jpg",
+        "metrics": {
+            "uciqe": 0.4766,
+            "uiqm": 0.0083,
+            "color_imbalance": 1.1411,
+            "brightness": 108.61,
+            "laplacian_var": 102.22
+        }
+    }
+]
